@@ -6,7 +6,7 @@
   <img align="right" alt="Impossible Shark Gameplay" width="400" src="./assets/impossibleSharkGIF.gif">
 </div>
 <p align="center">
-  <a href="https://fotiosmpouris.github.io](https://fotiosmpouris.github.io/ImpossibleShark2/">
+  <a href="[https://fotiosmpouris.github.io](https://fotiosmpouris.github.io/ImpossibleShark2/](https://fotiosmpouris.github.io/ImpossibleShark2/)">
     <strong>Impossible Shark</strong>
     <br>
     <em>animated game play</em>
