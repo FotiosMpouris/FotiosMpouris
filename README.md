@@ -86,10 +86,10 @@
     <a href="https://zapier.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" style="margin-right: 20px"/> 
     </a>
-    <a href="https://www.adobe.com/products/premiere.html.com" target="_blank" rel="noreferrer">)
+    <a href="https://adobe.com/products/premiere.com" target="_blank" rel="noreferrer">)
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" alt="after effects" width="40" height="40" style="margin-right: 20px" /> 
     </a>
-    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+    <a href="[https://adobe.com/products/aftereffects.html)" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" alt="after effects" width="40" height="40" style="margin-right: 20px" /> 
     </a>
     
