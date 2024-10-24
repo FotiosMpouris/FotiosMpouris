@@ -90,7 +90,7 @@
         <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> 
     </a>
     <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" alt="after effects" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" alt="after effects" width="40" height="40"/>
     </a>
     <a href="https://adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" alt="after effects" width="40" height="40"/> 
