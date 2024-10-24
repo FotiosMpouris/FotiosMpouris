@@ -1,3 +1,24 @@
+<style>
+  .skill-item {
+    display: inline-block;
+    background: #ffffff;
+    margin: 5px;
+    padding: 8px;
+    border-radius: 6px;
+    line-height: 0;
+  }
+  
+  .skill-item:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s;
+  }
+  
+  .skill-item img {
+    width: 40px;
+    height: 40px;
+  }
+</style>
+
 <h1 align="center">Fotios Mpouris</h1>
 <h3 align="center">2D & 3D Artist/Animator/Developer</h3>
 
@@ -42,27 +63,6 @@
 <a href="https://www.behance.net/fotios mpouris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="fotios mpouris" height="30" width="40" /></a>
 </p>
 
-<style>
-  .skill-item {
-    display: inline-block;
-    background: #ffffff;
-    margin: 5px;
-    padding: 8px;
-    border-radius: 6px;
-    line-height: 0;
-  }
-  
-  .skill-item:hover {
-    transform: scale(1.1);
-    transition: transform 0.2s;
-  }
-  
-  .skill-item img {
-    width: 40px;
-    height: 40px;
-  }
-</style>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer" class="skill-item"> 
@@ -105,15 +105,4 @@
         <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> 
     </a>
     <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer" class="skill-item">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" alt="after effects" width="40" height="40"/> 
-    </a>
-    <a href="https://adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer" class="skill-item">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" alt="after effects" width="40" height="40"/> 
-    </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fotiosmpouris&show_icons=true&locale=en&layout=compact" alt="fotiosmpouris" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fotiosmpouris&show_icons=true&locale=en" alt="fotiosmpouris" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fotiosmpouris&" alt="fotiosmpouris" /></p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premiere
