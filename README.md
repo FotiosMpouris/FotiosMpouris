@@ -10,8 +10,8 @@
   <a href="https://fotiosmpouris.github.io/ImpossibleShark2/">
     Play It Here
   </a>
-<!-- </h3>
-<p align="right"><em>animated game play</em></p> -->
+</h3>
+<p align="right"><em> </em></p>
 
 <div align="right">
   <img align="right" alt="Impossible Shark Gameplay" width="300" src="./assets/impossibleSharkGIF.gif">
