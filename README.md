@@ -46,10 +46,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<table style="background-color: #ffffff;">
+<table bgcolor="white" cellpadding="10">
 <tr>
-<td>
-<p align="left"> 
+<td bgcolor="white">
+<p align="left" style="background-color: white;"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
     </a> 
@@ -99,6 +99,7 @@
 </td>
 </tr>
 </table>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fotiosmpouris&show_icons=true&locale=en&layout=compact" alt="fotiosmpouris" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fotiosmpouris&show_icons=true&locale=en" alt="fotiosmpouris" /></p>
