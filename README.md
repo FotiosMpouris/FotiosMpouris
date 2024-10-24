@@ -50,8 +50,8 @@
     justify-content: center;
     background: #ffffff;
     margin: 5px;
-    padding: 8px;
-    border-radius: 8px;
+    padding: 5px;
+    border-radius: 6px;
     width: 40px;
     height: 40px;
     transition: transform 0.2s;
@@ -63,8 +63,8 @@
   }
   
   .skill-item img {
-    max-width: 100%;
-    max-height: 100%;
+    width: 30px;
+    height: 30px;
   }
 </style>
 
