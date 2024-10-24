@@ -17,7 +17,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=Profile%20views&color=0e75b6&style=flat" alt="fotiosmpouris" /> </p>
 
-- 🔭 I’m currently working on [Siding Project Assistant](https://github.com/FotiosMpouris/Hardie-Siding-Agent-Testing-Working_Copy)
+- 🔭 I'm currently working on:
+  - [Siding Project Assistant](https://github.com/FotiosMpouris/Hardie-Siding-Agent-Testing-Working_Copy)
+  - [Oriana](https://github.com/FotiosMpouris/Oriana)
+  - [AI Resume Tailor](https://github.com/FotiosMpouris/ReggieResume2/tree/main)
 
 - 🌱 I’m currently learning **about Swarm**
 
@@ -28,7 +31,7 @@
 
 - 📫 How to reach me **fotiosmpouris@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/FotiosMpouris](https://github.com/FotiosMpouris)
+- 📄 Resume Link Comming Soon [https://github.com/FotiosMpouris](https://github.com/FotiosMpouris)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
