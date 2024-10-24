@@ -25,15 +25,15 @@
   - [Oriana](https://github.com/FotiosMpouris/Oriana/blob/main/README.md)
   - [AI Resume Tailor](https://github.com/FotiosMpouris/ReggieResume2/blob/main/README.md)
 
--  I’m currently coding an application utilizing **Swarm )Open Ai)**
+-  I’m currently coding an application utilizing **  Swarm (Open Ai)**
 
--  Favorite Coding Assistants **Claude, ChatGPT, Llama3**
+-  Favorite Coding Assistants **  Claude, ChatGPT, Llama3**
 
 
 -  All of my projects are available at:
   - [https://github.com/FotiosMpouris](https://github.com/FotiosMpouris)
 
-- 💬 Ask me about **Building Applications Using Agents**
+- 💬 Ask me about **  Building Applications Using Agents**
 
 - 📫 How to reach me **fotiosmpouris@gmail.com**
 
