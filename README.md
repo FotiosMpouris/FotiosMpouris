@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Fotios Mpouris</h1>
 <h3 align="center">2D & 3D Artist/Animator/Developer</h3>
 
+<!-- Add these two blocks right after your h3 header and before the profile views counter -->
+<div align="right">
+  <img align="right" alt="Impossible Shark Gameplay" width="400" src="./assets/impossibleSharkGIF.gif">
+</div>
+<p align="center">
+  <a href="https://fotiosmpouris.github.io](https://fotiosmpouris.github.io/ImpossibleShark2/">
+    <strong>Impossible Shark</strong>
+    <br>
+    <em>animated game play</em>
+  </a>
+</p>
+<!-- Your existing profile views counter continues here -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=Profile%20views&color=0e75b6&style=flat" alt="fotiosmpouris" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=Profile%20views&color=0e75b6&style=flat" alt="fotiosmpouris" /> </p>
 
 - 🔭 I’m currently working on [Siding Project Assistant](https://github.com/FotiosMpouris/Hardie-Siding-Agent-Testing-Working_Copy)
