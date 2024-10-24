@@ -14,7 +14,7 @@
 <p align="right"><em>animated game play</em></p>
 
 <div align="right">
-  <img align="right" alt="Impossible Shark Gameplay" width="400" src="./assets/impossibleSharkGIF.gif">
+  <img align="right" alt="Impossible Shark Gameplay" width="300" src="./assets/impossibleSharkGIF.gif">
 </div>
 
 <!-- Your existing profile views counter continues here -->
