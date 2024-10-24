@@ -21,9 +21,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=Profile%20views&color=0e75b6&style=flat" alt="fotiosmpouris" /> </p>
 
 -  I'm currently working on:
-  - [Siding Project Assistant](https://github.com/FotiosMpouris/Hardie-Siding-Agent-Testing-Working_Copy/blob/main/README.md)
-  - [Oriana](https://github.com/FotiosMpouris/Oriana/blob/main/README.md)
-  - [AI Resume Tailor](https://github.com/FotiosMpouris/ReggieResume2/blob/main/README.md)
+    - [Siding Project Assistant](https://github.com/FotiosMpouris/Hardie-Siding-Agent-Testing-Working_Copy/blob/main/README.md)
+    - [Oriana](https://github.com/FotiosMpouris/Oriana/blob/main/README.md)
+    - [AI Resume Tailor](https://github.com/FotiosMpouris/ReggieResume2/blob/main/README.md)
 
 -  I’m currently coding an application utilizing **Swarm (Open Ai)**
 
