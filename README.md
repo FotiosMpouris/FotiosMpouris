@@ -20,7 +20,7 @@
 <!-- Your existing profile views counter continues here -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=Profile%20views&color=0e75b6&style=flat" alt="fotiosmpouris" /> </p>
 
-- 🔭 I'm currently working on:
+-  I'm currently working on:
   - [Siding Project Assistant](https://github.com/FotiosMpouris/Hardie-Siding-Agent-Testing-Working_Copy/blob/main/README.md)
   - [Oriana](https://github.com/FotiosMpouris/Oriana/blob/main/README.md)
   - [AI Resume Tailor](https://github.com/FotiosMpouris/ReggieResume2/blob/main/README.md)
@@ -86,18 +86,13 @@
     <a href="https://zapier.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" style="margin-right: 20px"/> 
     </a>
-    <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/adobe_premiere/adobe_premiere-icon.svg" alt="premiere" width="40" height="40" style="margin-right: 20px"/> 
+    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" /> 
     </a>
     <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" alt="after effects" width="40" height="40" style="margin-right: 20px" /> 
     </a>
-    <a href="https://www.adobe.com/products/audition.html" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/adobe_audition/adobe_audition-icon.svg" alt="audition" width="40" height="40" style="margin-right: 20px"/> 
-    </a>
-    <a href="https://www.adobe.com/products/character-animator.html" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/adobe_character_animator/adobe_character_animator-icon.svg" alt="character animator" width="40" height="40" style="margin-right: 20px"/> 
-    </a>
+    
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fotiosmpouris&show_icons=true&locale=en&layout=compact" alt="fotiosmpouris" /></p>
