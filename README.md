@@ -3,16 +3,19 @@
 
 <!-- Add these two blocks right after your h3 header and before the profile views counter -->
 <h3 align="right">
-  <a href="https://github.com/FotiosMpouris/ImpossibleShark">
-    Impossible Shark
+  <a href="https://github.com/FotiosMpouris/ImpossibleShark2">
+    Impossible Shark Repo
   </a>
   <br>
   <a href="https://fotiosmpouris.github.io/ImpossibleShark2/">
-    <small>Play it here!</small>
+    Play It Here
   </a>
 </h3>
 <p align="right"><em>animated game play</em></p>
 
+<div align="right">
+  <img align="right" alt="Impossible Shark Gameplay" width="400" src="./assets/impossibleSharkGIF.gif">
+</div>
 
 <!-- Your existing profile views counter continues here -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=Profile%20views&color=0e75b6&style=flat" alt="fotiosmpouris" /> </p>
