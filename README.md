@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Fotios Mpouris</h1>
+<h1 align="center">Fotios Mpouris</h1>
 <h3 align="center">2D & 3D Artist/Animator/Developer</h3>
 
 <!-- Add these two blocks right after your h3 header and before the profile views counter -->
-<div align="right">
-  <img align="right" alt="Impossible Shark Gameplay" width="400" src="./assets/impossibleSharkGIF.gif">
-</div>
-<p align="center">
-  <a href="https://fotiosmpouris.github.io/ImpossibleShark2/">
-    <strong>Impossible Shark</strong>
-    <br>
-    <em>animated game play</em>
+<h3 align="right">
+  <a href="https://github.com/FotiosMpouris/ImpossibleShark">
+    Impossible Shark
   </a>
-</p>
-<!-- Your existing profile views counter continues here -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=Profile%20views&color=0e75b6&style=flat" alt="fotiosmpouris" /> </p>
+  <br>
+  <a href="https://fotiosmpouris.github.io/ImpossibleShark2/">
+    <small>Play it here!</small>
+  </a>
+</h3>
+<p align="right"><em>animated game play</em></p>
 
+
+<!-- Your existing profile views counter continues here -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=Profile%20views&color=0e75b6&style=flat" alt="fotiosmpouris" /> </p>
 
 - 🔭 I'm currently working on:
@@ -22,12 +22,15 @@
   - [Oriana](https://github.com/FotiosMpouris/Oriana/blob/main/README.md)
   - [AI Resume Tailor](https://github.com/FotiosMpouris/ReggieResume2/blob/main/README.md)
 
-- 🌱 I’m currently learning **about Swarm**
+-  I’m currently coding an application utilizing **Swarm )Open Ai)**
+
+-  Favorite Coding Assistants **Claude, ChatGPT, Llama3**
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/FotiosMpouris](https://github.com/FotiosMpouris)
+-  All of my projects are available at:
+  - [https://github.com/FotiosMpouris](https://github.com/FotiosMpouris)
 
-- 💬 Ask me about **Agents**
+- 💬 Ask me about **Building Applications Using Agents**
 
 - 📫 How to reach me **fotiosmpouris@gmail.com**
 
