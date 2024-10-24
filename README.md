@@ -46,7 +46,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<table style="background-color: #f6f8fa;">
+<table style="background-color: #ffffff;">
 <tr>
 <td>
 <p align="left"> 
