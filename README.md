@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on [Siding Project Assistant](https://github.com/FotiosMpouris/Hardie-Siding-Agent-Testing-Working_Copy)
 
-- 🌱 I’m currently learning **Learning about Swarm**
+- 🌱 I’m currently learning **about Swarm**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/FotiosMpouris](https://github.com/FotiosMpouris)
