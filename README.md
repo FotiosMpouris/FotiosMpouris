@@ -90,9 +90,7 @@
         <img src="https://www.vectorlogo.zone/logos/adobe_premiere/adobe_premiere-icon.svg" alt="premiere" width="40" height="40" style="margin-right: 20px"/> 
     </a>
     <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> 
-        <img src="
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          "/> 
+        <img src="link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
     </a>
     <a href="https://www.adobe.com/products/audition.html" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/adobe_audition/adobe_audition-icon.svg" alt="audition" width="40" height="40" style="margin-right: 20px"/> 
