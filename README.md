@@ -31,7 +31,7 @@
 
 
 -  All of my projects are available at:
-  - [https://github.com/FotiosMpouris](https://github.com/FotiosMpouris)
+    - [https://github.com/FotiosMpouris](https://github.com/FotiosMpouris)
 
 - 💬 Ask me about **Building Applications Using Agents**
 
