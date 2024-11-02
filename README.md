@@ -37,7 +37,7 @@
 
 - 📫 How to reach me **fotiosmpouris@gmail.com**
 
-- 📄 Resume Link Comming Soon [https://github.com/FotiosMpouris](https://github.com/FotiosMpouris)
+- 📄 Resume Link [https://github.com/FotiosMpouris](https://fotiosmpouris.github.io/resume/#))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
