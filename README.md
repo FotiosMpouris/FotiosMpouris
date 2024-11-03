@@ -25,7 +25,9 @@
     - [Oriana](https://github.com/FotiosMpouris/Oriana/blob/main/README.md)
     - [AI Resume Tailor](https://github.com/FotiosMpouris/ReggieResume2/blob/main/README.md)
 
--  I’m currently coding an application utilizing **Swarm (Open Ai)**
+-  I’m currently loving coding an application utilizing **Swarm (Open Ai)**
+
+-  I’m also currently having a great time coding webpages **HTML JavaScript**
 
 -  Favorite Coding Assistants **Claude, ChatGPT, Llama3**
 
@@ -38,6 +40,7 @@
 - 📫 How to reach me **fotiosmpouris@gmail.com**
 
 - 📄 Resume Link [https://github.com/FotiosMpouris](https://fotiosmpouris.github.io/resume/#))
+- 📄 Fall Themed Resume Link [https://github.com/FotiosMpouris]((https://github.com/FotiosMpouris/TestCopyResumeFallTheme/blob/main/index.html)))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
