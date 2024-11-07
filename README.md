@@ -139,51 +139,76 @@
 </h2>
 <table align="center">
   <tr>
+    <!-- First Row -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" /><br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" /><br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" /><br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" /><br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" /><br>Node.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" /><br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" /><br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="48" height="48" /><br>Blender
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop" width="48" height="48" /><br>Photoshop
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" width="48" height="48" /><br>Illustrator
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ae" alt="Adobe After Effects" width="48" height="48" /><br>After Effects
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=openai" alt="OpenAI" width="48" height="48" /><br>OpenAI
+      <img src="https://skillicons.dev/icons?i=csharp" alt="C#" width="48" height="48" /><br>C#
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="48" height="48" /><br>Unity
     </td>
     <td align="center" width="96">
-      <!-- Add any additional tools if needed -->
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" /><br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" /><br>HTML
+    </td>
+  </tr>
+  <tr>
+    <!-- Second Row -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" width="48" height="48" /><br>Photoshop
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=premiere" alt="Premiere Pro" width="48" height="48" /><br>Premiere Pro
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" width="48" height="48" /><br>Illustrator
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ae" alt="After Effects" width="48" height="48" /><br>After Effects
+    </td>
+    <td align="center" width="96">
+      <!-- 3ds Max icon -->
+      <img src="https://img.icons8.com/color/48/000000/3ds-max.png" alt="3ds Max" width="48" height="48" /><br>3ds Max
+    </td>
+  </tr>
+  <tr>
+    <!-- Third Row -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="48" height="48" /><br>Blender
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" /><br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=android" alt="Android" width="48" height="48" /><br>Android
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="48" height="48" /><br>.NET
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="48" height="48" /><br>Google Cloud
+    </td>
+  </tr>
+  <tr>
+    <!-- Fourth Row -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" /><br>Node.js
+    </td>
+    <td align="center" width="96">
+      <!-- Zapier icon -->
+      <img src="https://img.icons8.com/color/48/000000/zapier.png" alt="Zapier" width="48" height="48" /><br>Zapier
+    </td>
+    <td align="center" width="96">
+      <!-- Microsoft Office icon -->
+      <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="Microsoft Office" width="48" height="48" /><br>Microsoft Office
+    </td>
+    <td align="center" width="96">
+      <!-- Microsoft Teams icon -->
+      <img src="https://img.icons8.com/color/48/000000/microsoft-teams.png" alt="Microsoft Teams" width="48" height="48" /><br>Microsoft Teams
     </td>
     <td align="center" width="96">
       <!-- Add any additional tools if needed -->
