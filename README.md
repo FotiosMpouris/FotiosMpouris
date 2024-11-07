@@ -228,12 +228,7 @@
 </table>
 
 <!-- GitHub Stats Section -->
-<h2 align="center" style="font-weight: bold; font-size: 28px;">
-  GitHub Statistics
-</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fotiosmpouris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+
 
 <!-- Contribution Graph -->
 <h2 align="center" style="font-weight: bold; font-size: 28px;">
