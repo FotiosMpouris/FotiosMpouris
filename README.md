@@ -1,159 +1,177 @@
-<h1 align="center">Fotios Mpouris</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=435&height=70&lines=Fotios+Mpouris" alt="Fotios Mpouris"/>
+</h1>
 
-<!-- Dynamic typing effect -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F85D0&center=true&vCenter=true&repeat=true&width=435&lines=2D+%26+3D+Artist;Creative+Developer;Animation+Enthusiast;Building+with+AI+%26+Creativity" alt="Typing SVG" /></a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2F85D0&center=true&vCenter=true&repeat=true&width=435&lines=2D+%26+3D+Artist;Creative+Developer;Animation+Specialist;AI+Integration+Expert" alt="Typing SVG" />
+</div>
 
-<!-- Currently Listening To -->
-<p align="center">
+<!-- Profile Stats Section -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=Profile%20Views&color=70A5FD&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/fotiosmpouris?label=Followers&style=flat-square&color=70A5FD" alt="followers"/>
+</div>
+
+<!-- Currently Vibing Section -->
+<div align="center">
+  <h3>
+    <img src="https://img.shields.io/badge/🎵_Currently_Vibing_To:-FF3300?style=for-the-badge" alt="Currently Vibing"/>
+  </h3>
   <a href="https://on.soundcloud.com/n8NTVe9tuCFniUb98">
-    <img src="https://img.shields.io/badge/SoundCloud-Currently Vibing: The Goldcast 104-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud"/>
+    <img src="https://img.shields.io/badge/The_Goldcast_104_with_Holmar-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud"/>
   </a>
-</p>
+</div>
 
-<!-- Impossible Shark Showcase -->
-<h3 align="right">
-  <a href="https://github.com/FotiosMpouris/ImpossibleShark2">
-    🦈 Impossible Shark Repo
-  </a>
-  <br>
+<!-- Interactive Portfolio Section -->
+<div align="center">
+  <h2>
+    <img src="https://img.shields.io/badge/Interactive_Portfolios-4285F4?style=for-the-badge" alt="Portfolio"/>
+  </h2>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/standard-resume.gif" alt="Standard Resume Animation" width="400">
+        <br>
+        <a href="https://fotiosmpouris.github.io/resume/#">
+          <img src="https://img.shields.io/badge/View_Interactive_Resume-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Standard Resume"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/fall-resume.gif" alt="Fall Theme Resume Animation" width="400">
+        <br>
+        <a href="https://fotiosmpouris.github.io/TestCopyResumeFallTheme/">
+          <img src="https://img.shields.io/badge/View_Fall_Theme-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Fall Theme"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Current Project Showcase -->
+<div align="center" style="margin: 50px 0;">
+  <h2>
+    <img src="https://img.shields.io/badge/Featured_Game-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Featured Game"/>
+  </h2>
+  <h3>
+    <a href="https://github.com/FotiosMpouris/ImpossibleShark2">Impossible Shark</a>
+  </h3>
   <a href="https://fotiosmpouris.github.io/ImpossibleShark2/">
-    🎮 Play It Here
+    <img width="500" src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/impossibleSharkGIF.gif" alt="Impossible Shark Gameplay">
   </a>
-</h3>
-
-<div align="right">
-  <img align="right" alt="Impossible Shark Gameplay" width="300" src="./assets/impossibleSharkGIF.gif">
+  <p>
+    <a href="https://fotiosmpouris.github.io/ImpossibleShark2/">
+      <img src="https://img.shields.io/badge/Play_Now-FF3333?style=for-the-badge&logo=unity&logoColor=white" alt="Play Now"/>
+    </a>
+  </p>
 </div>
 
-<!-- Profile Views Counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=Profile%20views&color=0e75b6&style=flat" alt="fotiosmpouris" />
-  <img src="https://img.shields.io/github/followers/fotiosmpouris?label=Followers&style=social" alt="followers"/>
-</p>
-
-<!-- Active Projects Section with Enhanced Cards -->
-<h2>🚀 Featured Projects</h2>
-
+<!-- Featured Projects Grid -->
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Featured_Projects-181717?style=for-the-badge&logo=github" alt="Featured Projects"/>
+</h2>
 <div align="center">
-<table>
-<tr>
-<td width="33%">
-<h3 align="center">Siding Project Assistant</h3>
-<div align="center">
-  <a href="https://github.com/FotiosMpouris/Hardie-Siding-Agent-Testing-Working_Copy">
-    <img src="https://img.shields.io/badge/-Project%20Repo-181717?style=for-the-badge&logo=github" alt="Repo">
-  </a>
-  <br><br>
-  <p>AI-Powered Siding Calculator & Assistant</p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/AI-OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
-</div>
-</td>
-<td width="33%">
-<h3 align="center">Oriana</h3>
-<div align="center">
-  <a href="https://github.com/FotiosMpouris/Oriana">
-    <img src="https://img.shields.io/badge/-Project%20Repo-181717?style=for-the-badge&logo=github" alt="Repo">
-  </a>
-  <br><br>
-  <p>Creative Development Project</p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
-</div>
-</td>
-<td width="33%">
-<h3 align="center">AI Resume Tailor</h3>
-<div align="center">
-  <a href="https://github.com/FotiosMpouris/ReggieResume2">
-    <img src="https://img.shields.io/badge/-Project%20Repo-181717?style=for-the-badge&logo=github" alt="Repo">
-  </a>
-  <br><br>
-  <p>Smart Resume Optimization Tool</p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/AI-OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
-</div>
-</td>
-</tr>
-</table>
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/siding-assistant-logo.png" width="100" height="100" alt="Siding Assistant">
+        <h3>Siding Project Assistant</h3>
+        <p>AI-Powered Construction Calculator</p>
+        <a href="https://github.com/FotiosMpouris/Hardie-Siding-Agent-Testing-Working_Copy">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="Project"/>
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
+      </td>
+      <td width="33%" align="center">
+        <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/oriana-logo.png" width="100" height="100" alt="Oriana">
+        <h3>Oriana</h3>
+        <p>Innovative Game Development</p>
+        <a href="https://github.com/FotiosMpouris/Oriana">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="Project"/>
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
+      </td>
+      <td width="33%" align="center">
+        <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/resume-tailor-logo.png" width="100" height="100" alt="AI Resume Tailor">
+        <h3>AI Resume Tailor</h3>
+        <p>Smart Resume Optimization</p>
+        <a href="https://github.com/FotiosMpouris/ReggieResume2">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="Project"/>
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Tech Stack Section -->
-<h2>🛠️ Tech Stack</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Tech_Stack-0D1117?style=for-the-badge" alt="Tech Stack"/>
+</h2>
 
 <details>
-<summary>🎨 Creative Tools</summary>
+<summary>
+  <img src="https://img.shields.io/badge/Creative_Tools-F5792A?style=for-the-badge" alt="Creative Tools"/>
+</summary>
 <br>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white">
 </p>
 </details>
 
 <details>
-<summary>💻 Development</summary>
+<summary>
+  <img src="https://img.shields.io/badge/Development-3776AB?style=for-the-badge" alt="Development"/>
+</summary>
 <br>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-</p>
-</details>
-
-<details>
-<summary>🎮 Game Development</summary>
-<br>
-<p align="left">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
 </p>
 </details>
 
-<!-- Achievement Badges -->
-<h2>🏆 Achievements</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/2D%20Animation-5%2B%20Years-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Game%20Development-3%2B%20Years-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI%20Development-Enthusiast-purple?style=for-the-badge">
-</p>
+<!-- GitHub Stats Section -->
+<h2 align="center">
+  <img src="https://img.shields.io/badge/GitHub_Statistics-0D1117?style=for-the-badge" alt="GitHub Stats"/>
+</h2>
 
-<!-- Connect Section -->
-<h2>🤝 Connect with me</h2>
-<p align="left">
-  <a href="https://linkedin.com/in/fotios mpouris" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="https://www.behance.net/fotios mpouris" target="blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="behance"/>
-  </a>
-  <a href="mailto:fotiosmpouris@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-  </a>
-</p>
-
-<!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fotiosmpouris&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=fotiosmpouris&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fotiosmpouris&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fotiosmpouris&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=fotiosmpouris&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fotiosmpouris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<!-- Activity Graph -->
-<h2>📈 Contribution Graph</h2>
+<!-- Contribution Graph -->
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Contribution_Graph-0D1117?style=for-the-badge" alt="Contribution Graph"/>
+</h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fotiosmpouris&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
-<!-- Resume Links -->
-<h2>📄 Resume</h2>
-<p align="left">
-  <a href="https://fotiosmpouris.github.io/resume/#">
-    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Resume"/>
+<!-- Connect Section -->
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Connect_With_Me-0D1117?style=for-the-badge" alt="Connect"/>
+</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/fotios mpouris" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://fotiosmpouris.github.io/TestCopyResumeFallTheme/">
-    <img src="https://img.shields.io/badge/Fall%20Theme%20Resume-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Fall Theme Resume"/>
+  <a href="https://www.behance.net/fotios mpouris" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+  </a>
+  <a href="mailto:fotiosmpouris@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
