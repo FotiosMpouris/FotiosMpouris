@@ -241,7 +241,7 @@
 </h2>
 <p align="center">
   <a href="https://linkedin.com/in/fotios-mpouris" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://www.linkedin.com/in/fotios-mpouris-57728b240/" alt="LinkedIn"/>
   </a>
   <a href="https://www.behance.net/fotiosmpouris" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
