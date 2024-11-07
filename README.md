@@ -74,7 +74,7 @@
   </p>
 </div>
 
-<!-- Featured Projects Grid -->
+<!-- Featured Projects with Animated Heading -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Featured+Projects" alt="Featured Projects"/>
 </h2>
@@ -229,9 +229,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fotiosmpouris&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fotiosmpouris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <!-- Removed the C+ grade stats -->
-  <!-- Kept the other two stats -->
 </div>
 
 <!-- Contribution Graph -->
