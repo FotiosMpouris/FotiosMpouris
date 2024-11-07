@@ -182,10 +182,10 @@
       <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="48" height="48" /><br>Unity
     </td>
     <td align="center" width="96">
-      <!-- Add any additional tools if needed -->
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" /><br>Linux
     </td>
     <td align="center" width="96">
-      <!-- Add any additional tools if needed -->
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" /><br>VS Code
     </td>
   </tr>
 </table>
