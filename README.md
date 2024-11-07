@@ -1,208 +1,130 @@
-<!-- Top Name Section -->
-<h1 align="center">
-  <!-- Animated Name with Color -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=50&weight=900&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&repeat=true&width=600&height=80&lines=FOTIOS+MPOURIS" alt="Fotios Mpouris"/>
-</h1>
+<h1 align="center">Fotios Mpouris</h1>
+<h3 align="center">2D & 3D Artist/Animator/Developer</h3>
 
-<!-- Animated Subtitle -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2F85D0&center=true&vCenter=true&repeat=true&width=435&lines=2D+%26+3D+Artist;Creative+Developer;Animation+Specialist;AI+Integration+Expert" alt="Typing SVG" />
-</div>
-
-<!-- Profile Stats Section -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=Profile%20Views&color=70A5FD&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/fotiosmpouris?label=Followers&style=flat-square&color=70A5FD" alt="followers"/>
-</div>
-
-<!-- Currently Listening Section -->
-<div align="center">
-  <h3 style="font-weight: bold; font-size: 24px; color: #FF3300;">
-    🎵 Currently Listening To:
-  </h3>
-  <a href="https://on.soundcloud.com/n8NTVe9tuCFniUb98">
-    <img src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=SoundCloud&logoColor=white" alt="SoundCloud"/>
+<h3 align="right">
+  <a href="https://github.com/FotiosMpouris/ImpossibleShark2">
+    Impossible Shark Repo
   </a>
-</div>
-
-<!-- Interactive Portfolio Section -->
-<div align="center">
-  <h2 style="font-weight: bold; font-size: 28px; color: #4285F4;">
-    Interactive Portfolios
-  </h2>
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/standard-resume.gif" alt="Standard Resume Animation" width="400">
-        <br>
-        <a href="https://fotiosmpouris.github.io/resume/#">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=4285F4&size=20&center=true&vCenter=true&width=250&lines=View+Interactive+Resume" alt="View Interactive Resume"/>
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/fall-resume.gif" alt="Fall Theme Resume Animation" width="400">
-        <br>
-        <a href="https://fotiosmpouris.github.io/TestCopyResumeFallTheme/">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF6B6B&size=20&center=true&vCenter=true&width=200&lines=View+Fall+Theme" alt="View Fall Theme"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Current Project Showcase -->
-<div align="center" style="margin: 50px 0;">
-  <h2 style="font-weight: bold; font-size: 28px; color: #FF6600;">
-    Featured Web Game
-  </h2>
-  <h3 style="font-weight: bold; font-size: 24px; color: #FF6600;">
-    <!-- Link to GitHub Repo -->
-    <a href="https://github.com/FotiosMpouris/ImpossibleShark2" style="color: #FF6600; text-decoration: none;">Impossible Shark</a>
-  </h3>
+  <br>
   <a href="https://fotiosmpouris.github.io/ImpossibleShark2/">
-    <img width="500" src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/impossibleSharkGIF.gif" alt="Impossible Shark Gameplay">
+    Play It Here
   </a>
-  <p>
-    <a href="https://fotiosmpouris.github.io/ImpossibleShark2/">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF3333&size=20&center=true&vCenter=true&width=150&lines=Play+Now" alt="Play Now"/>
-    </a>
-  </p>
+</h3>
+
+<div align="right">
+  <img align="right" alt="Impossible Shark Gameplay" width="300" src="./assets/impossibleSharkGIF.gif">
 </div>
 
-<!-- Featured Projects Grid -->
-<h2 align="center" style="font-weight: bold; font-size: 28px; color: #181717;">
-  Featured Projects
-</h2>
-<div align="center">
-  <table>
-    <tr>
-      <!-- Siding Project Assistant -->
-      <td width="33%" align="center">
-        <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/siding-assistant-logo.png" width="100" height="100" alt="Siding Assistant">
-        <h3>Siding Project Assistant</h3>
-        <p>AI-Powered Construction Calculator</p>
-        <a href="https://github.com/FotiosMpouris/Hardie-Siding-Agent-Testing-Working_Copy" style="font-weight: bold; font-size: 16px; color: #181717; text-decoration: none;">
-          View Project
-        </a>
-        <br><br>
-        <!-- Tech Badges -->
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-      </td>
-      <!-- Oriana -->
-      <td width="33%" align="center">
-        <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/oriana-logo.png" width="100" height="100" alt="Oriana">
-        <h3>Oriana</h3>
-        <p>Innovative Game Development</p>
-        <a href="https://github.com/FotiosMpouris/Oriana" style="font-weight: bold; font-size: 16px; color: #181717; text-decoration: none;">
-          View Project
-        </a>
-        <br><br>
-        <!-- Tech Badges -->
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Claude-FA74A6?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-      </td>
-      <!-- AI Resume Tailor -->
-      <td width="33%" align="center">
-        <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/resume-tailor-logo.png" width="100" height="100" alt="AI Resume Tailor">
-        <h3>AI Resume Tailor</h3>
-        <p>Smart Resume Optimization</p>
-        <a href="https://github.com/FotiosMpouris/ReggieResume2" style="font-weight: bold; font-size: 16px; color: #181717; text-decoration: none;">
-          View Project
-        </a>
-        <br><br>
-        <!-- Tech Badges -->
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Claude-FA74A6?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=FotiosMpouris&label=Profile%20views&color=0e75b6&style=flat" alt="FotiosMpouris" />
+</p>
 
-<!-- Technologies and Tools Section -->
-<h2 align="center" style="font-weight: bold; font-size: 28px;">
-  Technologies and Tools
-</h2>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" /><br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" /><br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" /><br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" /><br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" /><br>Node.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" /><br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" /><br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="48" height="48" /><br>Blender
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop" width="48" height="48" /><br>Photoshop
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" width="48" height="48" /><br>Illustrator
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ae" alt="Adobe After Effects" width="48" height="48" /><br>After Effects
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=openai" alt="OpenAI" width="48" height="48" /><br>OpenAI
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="48" height="48" /><br>Unity
-    </td>
-    <td align="center" width="96">
-      <!-- Add any additional tools if needed -->
-    </td>
-    <td align="center" width="96">
-      <!-- Add any additional tools if needed -->
-    </td>
-  </tr>
-</table>
+---
 
-<!-- Connect Section -->
-<h2 align="center" style="font-weight: bold; font-size: 28px;">
-  Connect With Me
-</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/fotios-mpouris" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=FotiosMpouris&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 GitHub Activity Graph
+
+[![Fotios's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FotiosMpouris&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+- 🔭 I'm currently working on:
+  - [Siding Project Assistant](https://github.com/FotiosMpouris/Hardie-Siding-Agent-Testing-Working_Copy/blob/main/README.md)
+  - [Oriana](https://github.com/FotiosMpouris/Oriana/blob/main/README.md)
+  - [AI Resume Tailor](https://github.com/FotiosMpouris/ReggieResume2/blob/main/README.md)
+
+- 🌱 I’m currently loving coding an application utilizing **Swarm (OpenAI)**
+
+- 💻 I’m also having a great time coding webpages with **HTML** and **JavaScript**
+
+- 🤖 Favorite Coding Assistants: **Claude**, **ChatGPT**, **Llama3**
+
+- 📚 All of my projects are available at:
+  - [https://github.com/FotiosMpouris](https://github.com/FotiosMpouris)
+
+- 💬 Ask me about **Building Applications Using Agents**
+
+- 📫 How to reach me: **fotiosmpouris@gmail.com**
+
+- 📄 Resume Links:
+  - [Standard Resume](https://fotiosmpouris.github.io/resume/#)
+  - [Fall Themed Resume](https://fotiosmpouris.github.io/TestCopyResumeFallTheme/)
+
+---
+
+## 💻 Top Repositories
+
+[![ImpossibleShark2](https://github-readme-stats.vercel.app/api/pin/?username=FotiosMpouris&repo=ImpossibleShark2&theme=tokyonight)](https://github.com/FotiosMpouris/ImpossibleShark2)
+[![Oriana](https://github-readme-stats.vercel.app/api/pin/?username=FotiosMpouris&repo=Oriana&theme=tokyonight)](https://github.com/FotiosMpouris/Oriana)
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/fotios-mpouris" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/icons/linkedin.svg" alt="Fotios Mpouris" height="30" width="40" />
   </a>
-  <a href="https://www.behance.net/fotiosmpouris" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
-  </a>
-  <a href="mailto:fotiosmpouris@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://www.behance.net/fotios-mpouris" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/icons/behance.svg" alt="Fotios Mpouris" height="30" width="40" />
   </a>
 </p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" />
+  </a>
+  <a href="https://www.blender.org/" target="_blank">
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40" />
+  </a>
+  <!-- Add more icons as needed -->
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FotiosMpouris&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="FotiosMpouris" />
+</p>
+
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FotiosMpouris&show_icons=true&locale=en&theme=tokyonight" alt="FotiosMpouris" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FotiosMpouris&theme=tokyonight" alt="FotiosMpouris" />
+</p>
+
+---
+
+## 💡 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+<!-- Optionally, you can add more sections like Code Snippet of the Day, Support Me, etc. -->
+
+<!-- For the Contribution Snake animation, you'll need to set up a GitHub Action. Uncomment the below section after setting it up. -->
+
+<!--
+![Contribution Snake](https://github.com/FotiosMpouris/FotiosMpouris/blob/output/github-contribution-grid-snake.svg)
+-->
+
