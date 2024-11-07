@@ -55,10 +55,11 @@
   <h2 style="font-weight: bold; font-size: 28px; color: #FF6600;">
     Featured Web Game
   </h2>
-  <h3 style="font-weight: bold; font-size: 24px; color: #FF6600;">
-    <!-- Link to GitHub Repo -->
-    <a href="https://github.com/FotiosMpouris/ImpossibleShark2" style="color: #FF6600; text-decoration: none;">Impossible Shark</a>
-  </h3>
+  <p>
+    <a href="https://github.com/FotiosMpouris/ImpossibleShark2" style="font-weight: bold; font-size: 16px; color: #FF6600; text-decoration: none;">
+      Impossible Shark Repo Link
+    </a>
+  </p>
   <a href="https://fotiosmpouris.github.io/ImpossibleShark2/">
     <img width="500" src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/impossibleSharkGIF.gif" alt="Impossible Shark Gameplay">
   </a>
@@ -70,8 +71,8 @@
 </div>
 
 <!-- Featured Projects Grid -->
-<h2 align="center" style="font-weight: bold; font-size: 28px; color: #181717;">
-  Featured Projects
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=4285F4&center=true&vCenter=true&width=500&lines=Featured+Projects" alt="Featured Projects" />
 </h2>
 <div align="center">
   <table>
@@ -224,7 +225,6 @@
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fotiosmpouris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fotiosmpouris&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <!-- Contribution Graph -->
@@ -243,4 +243,10 @@
   <a href="https://linkedin.com/in/fotios-mpouris" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.behance.net/fotio
+  <a href="https://www.behance.net/fotiosmpouris" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
+  </a>
+  <a href="mailto:fotiosmpouris@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
