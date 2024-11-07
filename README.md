@@ -55,8 +55,12 @@
   <h2 style="font-weight: bold; font-size: 28px; color: #FF6600;">
     Featured Web Game
   </h2>
+  <h3 style="font-weight: bold; font-size: 24px; color: #FF6600;">
+    Impossible Shark
+  </h3>
+  <!-- Repo Link -->
   <p>
-    <a href="https://github.com/FotiosMpouris/ImpossibleShark2" style="font-weight: bold; font-size: 16px; color: #FF6600; text-decoration: none;">
+    <a href="https://github.com/FotiosMpouris/ImpossibleShark2" style="color: #FF6600; font-weight: bold; text-decoration: none;">
       Impossible Shark Repo Link
     </a>
   </p>
@@ -72,8 +76,9 @@
 
 <!-- Featured Projects Grid -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=4285F4&center=true&vCenter=true&width=500&lines=Featured+Projects" alt="Featured Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Featured+Projects" alt="Featured Projects"/>
 </h2>
+
 <div align="center">
   <table>
     <tr>
@@ -225,6 +230,8 @@
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fotiosmpouris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br><br>
+  <!-- Removed the C+ grade stats -->
+  <!-- Kept the other two stats -->
 </div>
 
 <!-- Contribution Graph -->
@@ -240,8 +247,8 @@
   Connect With Me
 </h2>
 <p align="center">
-  <a href="https://linkedin.com/in/fotios-mpouris" target="_blank" style="text-decoration: none;">
-    <img src="https://www.linkedin.com/in/fotios-mpouris-57728b240/" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/fotios-mpouris-57728b240/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.behance.net/fotiosmpouris" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
