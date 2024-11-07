@@ -1,25 +1,28 @@
-<h1 align="center">Fotios Mpouris</h1>
+<div align="center">
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=42&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=true&width=580&height=70&lines=FOTIOS+MPOURIS" alt="Fotios Mpouris"/>
+  </h1>
+</div>
 
-<!-- Dynamic typing effect -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2F85D0&center=true&vCenter=true&repeat=true&width=435&lines=2D+%26+3D+Artist;Creative+Developer;Animation+Specialist;AI+Integration+Expert" alt="Typing SVG" /></a>
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2F85D0&center=true&vCenter=true&repeat=true&width=435&lines=2D+%26+3D+Artist;Creative+Developer;Animation+Specialist;AI+Integration+Expert" alt="Typing SVG"/>
+  </a>
+</div>
 
 <!-- Creative Resume Showcase -->
 <div align="center">
-  <h2>📄 Interactive Resumes</h2>
+  <div style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); padding: 3px; border-radius: 10px; margin: 20px 0;">
+    <h2 align="center" style="color: white; margin: 0; padding: 10px;">Interactive Portfolio</h2>
+  </div>
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="./assets/resumes/standard-resume.gif" alt="Standard Resume Animation" width="100%">
-        <br>
         <a href="https://fotiosmpouris.github.io/resume/#">
           <img src="https://img.shields.io/badge/View%20Interactive%20Resume-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Standard Resume"/>
         </a>
       </td>
       <td align="center" width="50%">
-        <img src="./assets/resumes/fall-resume.gif" alt="Fall Theme Resume Animation" width="100%">
-        <br>
         <a href="https://fotiosmpouris.github.io/TestCopyResumeFallTheme/">
           <img src="https://img.shields.io/badge/View%20Fall%20Theme-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Fall Theme"/>
         </a>
@@ -28,15 +31,18 @@
   </table>
 </div>
 
-<!-- Featured Project - Impossible Shark -->
+<!-- Featured Project -->
 <div align="right" style="margin-top: 20px;">
+  <div style="background: linear-gradient(45deg, #FFE66D, #FF6B6B); padding: 3px; border-radius: 10px; margin: 10px 0;">
+    <h2 align="center" style="color: white; margin: 0; padding: 10px;">Featured Game: Impossible Shark</h2>
+  </div>
   <h3 align="right">
     <a href="https://github.com/FotiosMpouris/ImpossibleShark2">
-      🦈 Impossible Shark
+      <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="Repository"/>
     </a>
   </h3>
   <a href="https://fotiosmpouris.github.io/ImpossibleShark2/">
-    <img align="right" alt="Impossible Shark Gameplay" width="300" style="margin-bottom: 20px;" src="./assets/projects/impossibleSharkGIF.gif">
+    <img align="right" alt="Impossible Shark Gameplay" width="300" style="margin-bottom: 20px;" src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/impossibleSharkGIF.gif">
   </a>
   <p align="right">
     <a href="https://fotiosmpouris.github.io/ImpossibleShark2/">
@@ -48,12 +54,14 @@
 <div style="clear: both;"></div>
 
 <!-- Project Showcase -->
-<h2>🚀 Featured Projects</h2>
+<div style="background: linear-gradient(45deg, #4ECDC4, #556270); padding: 3px; border-radius: 10px; margin: 20px 0;">
+  <h2 align="center" style="color: white; margin: 0; padding: 10px;">Innovation Portfolio</h2>
+</div>
+
 <div align="center">
   <table>
     <tr>
       <td width="33%" align="center">
-        <img src="./assets/projects/siding-assistant-logo.png" width="100" height="100" alt="Siding Assistant">
         <h3>Siding Project Assistant</h3>
         <p>AI-Powered Construction Calculator</p>
         <a href="https://github.com/FotiosMpouris/Hardie-Siding-Agent-Testing-Working_Copy">
@@ -64,7 +72,6 @@
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
       </td>
       <td width="33%" align="center">
-        <img src="./assets/projects/oriana-logo.png" width="100" height="100" alt="Oriana">
         <h3>Oriana</h3>
         <p>Innovative Game Development</p>
         <a href="https://github.com/FotiosMpouris/Oriana">
@@ -75,7 +82,6 @@
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
       </td>
       <td width="33%" align="center">
-        <img src="./assets/projects/resume-tailor-logo.png" width="100" height="100" alt="AI Resume Tailor">
         <h3>AI Resume Tailor</h3>
         <p>Smart Resume Optimization</p>
         <a href="https://github.com/FotiosMpouris/ReggieResume2">
@@ -89,16 +95,20 @@
   </table>
 </div>
 
-<!-- Currently Vibing -->
-<h2 align="center">🎵 Currently Vibing To</h2>
+<!-- Currently Playing -->
+<div style="background: linear-gradient(45deg, #556270, #FF6B6B); padding: 3px; border-radius: 10px; margin: 20px 0;">
+  <h2 align="center" style="color: white; margin: 0; padding: 10px;">Currently In The Mix</h2>
+</div>
 <p align="center">
   <a href="https://on.soundcloud.com/n8NTVe9tuCFniUb98">
     <img src="https://img.shields.io/badge/SoundCloud-The%20Goldcast%20104%20with%20Holmar-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud"/>
   </a>
 </p>
 
-<!-- Skills Section -->
-<h2>🎨 Creative & Technical Skills</h2>
+<!-- Skills -->
+<div style="background: linear-gradient(45deg, #4ECDC4, #FFE66D); padding: 3px; border-radius: 10px; margin: 20px 0;">
+  <h2 align="center" style="color: white; margin: 0; padding: 10px;">Technical Arsenal</h2>
+</div>
 <table>
   <tr>
     <td width="50%" align="center">
@@ -116,29 +126,25 @@
   </tr>
 </table>
 
-<!-- Professional Impact -->
-<h2>💡 Professional Highlights</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>🎮 Game Development</h3>
-        <p>Unity-powered games with engaging mechanics</p>
-      </td>
-      <td align="center">
-        <h3>🤖 AI Integration</h3>
-        <p>Custom AI solutions for real-world applications</p>
-      </td>
-      <td align="center">
-        <h3>🎨 Creative Design</h3>
-        <p>Stunning visuals and animations</p>
-      </td>
-    </tr>
-  </table>
+<!-- GitHub Stats -->
+<div style="background: linear-gradient(45deg, #FF6B6B, #556270); padding: 3px; border-radius: 10px; margin: 20px 0;">
+  <h2 align="center" style="color: white; margin: 0; padding: 10px;">Development Insights</h2>
 </div>
 
-<!-- Connect Section -->
-<h2>🤝 Let's Connect!</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fotiosmpouris&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fotiosmpouris&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</div>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fotiosmpouris&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+
+<!-- Connect -->
+<div style="background: linear-gradient(45deg, #FFE66D, #4ECDC4); padding: 3px; border-radius: 10px; margin: 20px 0;">
+  <h2 align="center" style="color: white; margin: 0; padding: 10px;">Let's Create Together</h2>
+</div>
+
 <p align="center">
   <a href="https://linkedin.com/in/fotios mpouris">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -151,15 +157,6 @@
   </a>
 </p>
 
-<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
-
-<!-- Specialty Areas -->
-<h2>🌟 Specialty Areas</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/3D%20Animation-Expert-FF6B6B?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Game%20Development-Advanced-4CAF50?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI%20Integration-Specialist-9C27B0?style=for-the-badge">
-</div>
