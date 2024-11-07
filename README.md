@@ -12,7 +12,7 @@
 <!-- Profile Stats Section -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=Profile%20Views&color=70A5FD&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/fotiosmpouris?label=Followers&style=flat-square&color=70A5FD" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/fotiosmpouris?label=Followers&style=flat-square&color=70A5FD" alt="Followers"/>
 </div>
 
 <!-- Currently Listening Section -->
@@ -190,6 +190,26 @@
     </td>
   </tr>
 </table>
+
+<!-- GitHub Stats Section -->
+<h2 align="center" style="font-weight: bold; font-size: 28px;">
+  GitHub Statistics
+</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fotiosmpouris&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fotiosmpouris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fotiosmpouris&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<!-- Contribution Graph -->
+<h2 align="center" style="font-weight: bold; font-size: 28px;">
+  Contribution Graph
+</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fotiosmpouris&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
 
 <!-- Connect Section -->
 <h2 align="center" style="font-weight: bold; font-size: 28px;">
