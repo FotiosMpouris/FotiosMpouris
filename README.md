@@ -132,48 +132,63 @@
   </table>
 </div>
 
-<!-- Tech Stack Section -->
+<!-- Technologies and Tools Section -->
 <h2 align="center" style="font-weight: bold; font-size: 28px;">
   Technologies and Tools
 </h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,blender,ps,ai,ae,nodejs,openai,unity" alt="Technologies and Tools" />
-</p>
-
-<!-- Time Zones Section -->
-<h2 align="center" style="font-weight: bold; font-size: 28px;">
-  🌐 Time Zones
-</h2>
-<p align="center">
-  <!-- Boston -->
-  <img src="https://img.shields.io/static/v1?label=Boston&message=--:--&color=blue&style=for-the-badge" alt="Boston Time">
-  <!-- Ibiza -->
-  <img src="https://img.shields.io/static/v1?label=Ibiza&message=--:--&color=blue&style=for-the-badge" alt="Ibiza Time">
-  <!-- Greece -->
-  <img src="https://img.shields.io/static/v1?label=Greece&message=--:--&color=blue&style=for-the-badge" alt="Greece Time">
-  <!-- India -->
-  <img src="https://img.shields.io/static/v1?label=India&message=--:--&color=blue&style=for-the-badge" alt="India Time">
-</p>
-
-<!-- GitHub Stats Section -->
-<h2 align="center" style="font-weight: bold; font-size: 28px;">
-  GitHub Statistics
-</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fotiosmpouris&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fotiosmpouris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fotiosmpouris&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<!-- Contribution Graph -->
-<h2 align="center" style="font-weight: bold; font-size: 28px;">
-  Contribution Graph
-</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fotiosmpouris&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" /><br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" /><br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" /><br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" /><br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" /><br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" /><br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" /><br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="48" height="48" /><br>Blender
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop" width="48" height="48" /><br>Photoshop
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" width="48" height="48" /><br>Illustrator
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ae" alt="Adobe After Effects" width="48" height="48" /><br>After Effects
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=openai" alt="OpenAI" width="48" height="48" /><br>OpenAI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="48" height="48" /><br>Unity
+    </td>
+    <td align="center" width="96">
+      <!-- Add any additional tools if needed -->
+    </td>
+    <td align="center" width="96">
+      <!-- Add any additional tools if needed -->
+    </td>
+  </tr>
+</table>
 
 <!-- Connect Section -->
 <h2 align="center" style="font-weight: bold; font-size: 28px;">
