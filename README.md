@@ -1,14 +1,9 @@
-<div align="center">
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=42&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=true&width=580&height=70&lines=FOTIOS+MPOURIS" alt="Fotios Mpouris"/>
-  </h1>
-</div>
+<h1 align="center">Fotios Mpouris</h1>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2F85D0&center=true&vCenter=true&repeat=true&width=435&lines=2D+%26+3D+Artist;Creative+Developer;Animation+Specialist;AI+Integration+Expert" alt="Typing SVG"/>
-  </a>
-</div>
+<!-- Dynamic typing effect -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2F85D0&center=true&vCenter=true&repeat=true&width=435&lines=2D+%26+3D+Artist;Creative+Developer;Animation+Specialist;AI+Integration+Expert" alt="Typing SVG" /></a>
+</p>
 
 <!-- Creative Resume Showcase -->
 <div align="center">
@@ -18,11 +13,15 @@
   <table>
     <tr>
       <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/resumes/standard-resume.gif" alt="Standard Resume Animation" width="100%">
+        <br>
         <a href="https://fotiosmpouris.github.io/resume/#">
           <img src="https://img.shields.io/badge/View%20Interactive%20Resume-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Standard Resume"/>
         </a>
       </td>
       <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/resumes/fall-resume.gif" alt="Fall Theme Resume Animation" width="100%">
+        <br>
         <a href="https://fotiosmpouris.github.io/TestCopyResumeFallTheme/">
           <img src="https://img.shields.io/badge/View%20Fall%20Theme-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Fall Theme"/>
         </a>
@@ -31,9 +30,9 @@
   </table>
 </div>
 
-<!-- Featured Project -->
+<!-- Featured Project - Impossible Shark -->
 <div align="right" style="margin-top: 20px;">
-  <div style="background: linear-gradient(45deg, #FFE66D, #FF6B6B); padding: 3px; border-radius: 10px; margin: 10px 0;">
+  <div style="background: linear-gradient(45deg, #FFE66D, #FF6B6B); padding: 3px; border-radius: 10px;">
     <h2 align="center" style="color: white; margin: 0; padding: 10px;">Featured Game: Impossible Shark</h2>
   </div>
   <h3 align="right">
@@ -42,7 +41,7 @@
     </a>
   </h3>
   <a href="https://fotiosmpouris.github.io/ImpossibleShark2/">
-    <img align="right" alt="Impossible Shark Gameplay" width="300" style="margin-bottom: 20px;" src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/impossibleSharkGIF.gif">
+    <img align="right" alt="Impossible Shark Gameplay" width="300" style="margin-bottom: 20px;" src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/projects/impossibleSharkGIF.gif">
   </a>
   <p align="right">
     <a href="https://fotiosmpouris.github.io/ImpossibleShark2/">
@@ -51,17 +50,14 @@
   </p>
 </div>
 
-<div style="clear: both;"></div>
-
 <!-- Project Showcase -->
-<div style="background: linear-gradient(45deg, #4ECDC4, #556270); padding: 3px; border-radius: 10px; margin: 20px 0;">
-  <h2 align="center" style="color: white; margin: 0; padding: 10px;">Innovation Portfolio</h2>
-</div>
+<h2 align="center" style="background: linear-gradient(45deg, #4ECDC4, #556270); color: white; padding: 10px; border-radius: 10px;">Innovation Portfolio</h2>
 
 <div align="center">
   <table>
     <tr>
       <td width="33%" align="center">
+        <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/projects/siding-assistant-logo.png" width="100" height="100" alt="Siding Assistant">
         <h3>Siding Project Assistant</h3>
         <p>AI-Powered Construction Calculator</p>
         <a href="https://github.com/FotiosMpouris/Hardie-Siding-Agent-Testing-Working_Copy">
@@ -72,6 +68,7 @@
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
       </td>
       <td width="33%" align="center">
+        <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/projects/oriana-logo.png" width="100" height="100" alt="Oriana">
         <h3>Oriana</h3>
         <p>Innovative Game Development</p>
         <a href="https://github.com/FotiosMpouris/Oriana">
@@ -82,6 +79,7 @@
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
       </td>
       <td width="33%" align="center">
+        <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/projects/resume-tailor-logo.png" width="100" height="100" alt="AI Resume Tailor">
         <h3>AI Resume Tailor</h3>
         <p>Smart Resume Optimization</p>
         <a href="https://github.com/FotiosMpouris/ReggieResume2">
@@ -96,40 +94,62 @@
 </div>
 
 <!-- Currently Playing -->
-<div style="background: linear-gradient(45deg, #556270, #FF6B6B); padding: 3px; border-radius: 10px; margin: 20px 0;">
-  <h2 align="center" style="color: white; margin: 0; padding: 10px;">Currently In The Mix</h2>
-</div>
+<h2 align="center" style="background: linear-gradient(45deg, #556270, #FF6B6B); color: white; padding: 10px; border-radius: 10px;">Currently In The Mix</h2>
 <p align="center">
   <a href="https://on.soundcloud.com/n8NTVe9tuCFniUb98">
     <img src="https://img.shields.io/badge/SoundCloud-The%20Goldcast%20104%20with%20Holmar-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud"/>
   </a>
 </p>
 
-<!-- Skills -->
-<div style="background: linear-gradient(45deg, #4ECDC4, #FFE66D); padding: 3px; border-radius: 10px; margin: 20px 0;">
-  <h2 align="center" style="color: white; margin: 0; padding: 10px;">Technical Arsenal</h2>
-</div>
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>Creative Suite</h3>
-      <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
-      <img src="https://img.shields.io/badge/Adobe%20Creative%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white">
-      <img src="https://img.shields.io/badge/3D%20Animation-00C4CC?style=for-the-badge&logo=blender&logoColor=white">
-    </td>
-    <td width="50%" align="center">
-      <h3>Development</h3>
-      <img src="https://img.shields.io/badge/Game%20Development-000000?style=for-the-badge&logo=unity&logoColor=white">
-      <img src="https://img.shields.io/badge/AI%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white">
-      <img src="https://img.shields.io/badge/Web%20Development-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    </td>
-  </tr>
-</table>
+<!-- Languages and Tools -->
+<h2 align="center" style="background: linear-gradient(45deg, #4ECDC4, #FFE66D); color: white; padding: 10px; border-radius: 10px;">Languages and Tools</h2>
+<p align="left">
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+    </a> 
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+    </a> 
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> 
+    </a> 
+    <a href="https://zapier.com" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> 
+    </a>
+    <a href="https://adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" alt="after effects" width="40" height="40"/> 
+    </a>
+</p>
 
 <!-- GitHub Stats -->
-<div style="background: linear-gradient(45deg, #FF6B6B, #556270); padding: 3px; border-radius: 10px; margin: 20px 0;">
-  <h2 align="center" style="color: white; margin: 0; padding: 10px;">Development Insights</h2>
-</div>
+<h2 align="center" style="background: linear-gradient(45deg, #FF6B6B, #556270); color: white; padding: 10px; border-radius: 10px;">Development Insights</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fotiosmpouris&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -141,9 +161,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fotiosmpouris&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 
 <!-- Connect -->
-<div style="background: linear-gradient(45deg, #FFE66D, #4ECDC4); padding: 3px; border-radius: 10px; margin: 20px 0;">
-  <h2 align="center" style="color: white; margin: 0; padding: 10px;">Let's Create Together</h2>
-</div>
+<h2 align="center" style="background: linear-gradient(45deg, #FFE66D, #4ECDC4); color: white; padding: 10px; border-radius: 10px;">Let's Connect</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/fotios mpouris">
