@@ -36,14 +36,14 @@
         <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/standard-resume.gif" alt="Standard Resume Animation" width="400">
         <br>
         <a href="https://fotiosmpouris.github.io/resume/#">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=4285F4&size=20&center=true&vCenter=true&width=250&lines=View+Interactive+Resume" alt="View Interactive Resume"/>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=4285F4&size=20&center=true&vCenter=true&width=400&lines=View+Interactive+Resume" alt="View Interactive Resume"/>
         </a>
       </td>
       <td align="center" width="50%">
         <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/fall-resume.gif" alt="Fall Theme Resume Animation" width="400">
         <br>
         <a href="https://fotiosmpouris.github.io/TestCopyResumeFallTheme/">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF6B6B&size=20&center=true&vCenter=true&width=200&lines=View+Fall+Theme" alt="View Fall Theme"/>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF6B6B&size=20&center=true&vCenter=true&width=400&lines=View+Fall+Theme" alt="View Fall Theme"/>
         </a>
       </td>
     </tr>
@@ -159,6 +159,9 @@
   <tr>
     <!-- Second Row -->
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=android" alt="Android" width="48" height="48" /><br>Android
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" width="48" height="48" /><br>Photoshop
     </td>
     <td align="center" width="96">
@@ -170,13 +173,13 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ae" alt="After Effects" width="48" height="48" /><br>After Effects
     </td>
+  </tr>
+  <tr>
+    <!-- Third Row -->
     <td align="center" width="96">
       <!-- 3ds Max icon -->
       <img src="https://img.icons8.com/color/48/000000/3ds-max.png" alt="3ds Max" width="48" height="48" /><br>3ds Max
     </td>
-  </tr>
-  <tr>
-    <!-- Third Row -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="48" height="48" /><br>Blender
     </td>
@@ -184,13 +187,10 @@
       <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" /><br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=android" alt="Android" width="48" height="48" /><br>Android
+      <img src="https://img.icons8.com/color/48/000000/zapier.png" alt="Zapier" width="48" height="48" /><br>Zapier
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="48" height="48" /><br>.NET
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="48" height="48" /><br>Google Cloud
     </td>
   </tr>
   <tr>
@@ -199,8 +199,7 @@
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" /><br>Node.js
     </td>
     <td align="center" width="96">
-      <!-- Zapier icon -->
-      <img src="https://img.icons8.com/color/48/000000/zapier.png" alt="Zapier" width="48" height="48" /><br>Zapier
+      <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="48" height="48" /><br>Google Cloud
     </td>
     <td align="center" width="96">
       <!-- Microsoft Office icon -->
@@ -244,10 +243,4 @@
   <a href="https://linkedin.com/in/fotios-mpouris" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.behance.net/fotiosmpouris" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
-  </a>
-  <a href="mailto:fotiosmpouris@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+  <a href="https://www.behance.net/fotio
