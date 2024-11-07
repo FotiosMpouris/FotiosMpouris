@@ -55,8 +55,9 @@
   <h2 style="font-weight: bold; font-size: 28px; color: #FF6600;">
     Featured Web Game
   </h2>
-  <h3>
-    <a href="https://github.com/FotiosMpouris/ImpossibleShark2" style="font-weight: bold; font-size: 24px; color: #FF6600; text-decoration: none;">Impossible Shark</a>
+  <h3 style="font-weight: bold; font-size: 24px; color: #FF6600;">
+    <!-- Link to GitHub Repo -->
+    <a href="https://github.com/FotiosMpouris/ImpossibleShark2" style="color: #FF6600; text-decoration: none;">Impossible Shark</a>
   </h3>
   <a href="https://fotiosmpouris.github.io/ImpossibleShark2/">
     <img width="500" src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/impossibleSharkGIF.gif" alt="Impossible Shark Gameplay">
@@ -85,12 +86,12 @@
         </a>
         <br><br>
         <!-- Tech Badges -->
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
       </td>
       <!-- Oriana -->
       <td width="33%" align="center">
@@ -102,13 +103,13 @@
         </a>
         <br><br>
         <!-- Tech Badges -->
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Claude-FA74A6?style=flat-square&logo=anthropic&logoColor=white">
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Claude-FA74A6?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
       </td>
       <!-- AI Resume Tailor -->
       <td width="33%" align="center">
@@ -120,13 +121,13 @@
         </a>
         <br><br>
         <!-- Tech Badges -->
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Claude-FA74A6?style=flat-square&logo=anthropic&logoColor=white">
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Claude-FA74A6?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
       </td>
     </tr>
   </table>
@@ -182,10 +183,10 @@
       <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="48" height="48" /><br>Unity
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" /><br>Linux
+      <!-- Add any additional tools if needed -->
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" /><br>VS Code
+      <!-- Add any additional tools if needed -->
     </td>
   </tr>
 </table>
