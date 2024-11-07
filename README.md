@@ -33,14 +33,18 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/standard-resume.gif" alt="Standard Resume Animation" width="400">
+        <a href="https://fotiosmpouris.github.io/resume/#">
+          <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/standard-resume.gif" alt="Standard Resume Animation" width="400">
+        </a>
         <br>
         <a href="https://fotiosmpouris.github.io/resume/#">
           <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=4285F4&size=20&center=true&vCenter=true&width=400&lines=View+Interactive+Resume" alt="View Interactive Resume"/>
         </a>
       </td>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/fall-resume.gif" alt="Fall Theme Resume Animation" width="400">
+        <a href="https://fotiosmpouris.github.io/TestCopyResumeFallTheme/">
+          <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/fall-resume.gif" alt="Fall Theme Resume Animation" width="400">
+        </a>
         <br>
         <a href="https://fotiosmpouris.github.io/TestCopyResumeFallTheme/">
           <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF6B6B&size=20&center=true&vCenter=true&width=400&lines=View+Fall+Theme" alt="View Fall Theme"/>
