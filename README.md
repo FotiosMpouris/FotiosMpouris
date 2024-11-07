@@ -33,6 +33,7 @@
   <table>
     <tr>
       <td align="center" width="50%">
+        <!-- Wrapped the GIF in an anchor tag -->
         <a href="https://fotiosmpouris.github.io/resume/#">
           <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/standard-resume.gif" alt="Standard Resume Animation" width="400">
         </a>
@@ -42,6 +43,7 @@
         </a>
       </td>
       <td align="center" width="50%">
+        <!-- Wrapped the GIF in an anchor tag -->
         <a href="https://fotiosmpouris.github.io/TestCopyResumeFallTheme/">
           <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/fall-resume.gif" alt="Fall Theme Resume Animation" width="400">
         </a>
