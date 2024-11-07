@@ -1,6 +1,7 @@
 <!-- Top Name Section -->
-<h1 align="center" style="font-size: 60px; font-weight: bold; color: #70A5FD;">
-  Fotios Mpouris
+<h1 align="center">
+  <!-- Animated Name with Color -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=50&weight=900&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&repeat=true&width=600&height=80&lines=FOTIOS+MPOURIS" alt="Fotios Mpouris"/>
 </h1>
 
 <!-- Animated Subtitle -->
@@ -19,8 +20,8 @@
   <h3 style="font-weight: bold; font-size: 24px; color: #FF3300;">
     🎵 Currently Listening To:
   </h3>
-  <a href="https://on.soundcloud.com/n8NTVe9tuCFniUb98" style="font-weight: bold; font-size: 20px; color: #FF3300; text-decoration: none;">
-    The Goldcast 104 with Holmar
+  <a href="https://on.soundcloud.com/n8NTVe9tuCFniUb98">
+    <img src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=SoundCloud&logoColor=white" alt="SoundCloud"/>
   </a>
 </div>
 
@@ -86,8 +87,8 @@
         <!-- Tech Badges -->
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
       </td>
@@ -102,9 +103,10 @@
         <br><br>
         <!-- Tech Badges -->
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Claude-FA74A6?style=flat-square&logo=anthropic&logoColor=white">
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
       </td>
@@ -119,9 +121,10 @@
         <br><br>
         <!-- Tech Badges -->
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Claude-FA74A6?style=flat-square&logo=anthropic&logoColor=white">
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
       </td>
@@ -131,10 +134,10 @@
 
 <!-- Tech Stack Section -->
 <h2 align="center" style="font-weight: bold; font-size: 28px;">
-  Tech Stack
+  Technologies and Tools
 </h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,blender,ps,ai,ae,nodejs,openai,unity" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,blender,ps,ai,ae,nodejs,openai,unity" alt="Technologies and Tools" />
 </p>
 
 <!-- Time Zones Section -->
@@ -143,24 +146,44 @@
 </h2>
 <p align="center">
   <!-- Boston -->
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAmerica%2FNew_York&label=Boston&style=flat-square&color=blue" alt="Boston Time">
+  <img src="https://img.shields.io/static/v1?label=Boston&message=--:--&color=blue&style=for-the-badge" alt="Boston Time">
   <!-- Ibiza -->
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FEurope%2FMadrid&label=Ibiza&style=flat-square&color=blue" alt="Ibiza Time">
+  <img src="https://img.shields.io/static/v1?label=Ibiza&message=--:--&color=blue&style=for-the-badge" alt="Ibiza Time">
   <!-- Greece -->
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FEurope%2FAthens&label=Greece&style=flat-square&color=blue" alt="Greece Time">
+  <img src="https://img.shields.io/static/v1?label=Greece&message=--:--&color=blue&style=for-the-badge" alt="Greece Time">
   <!-- India -->
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FKolkata&label=India&style=flat-square&color=blue" alt="India Time">
+  <img src="https://img.shields.io/static/v1?label=India&message=--:--&color=blue&style=for-the-badge" alt="India Time">
 </p>
+
+<!-- GitHub Stats Section -->
+<h2 align="center" style="font-weight: bold; font-size: 28px;">
+  GitHub Statistics
+</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fotiosmpouris&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fotiosmpouris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fotiosmpouris&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<!-- Contribution Graph -->
+<h2 align="center" style="font-weight: bold; font-size: 28px;">
+  Contribution Graph
+</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fotiosmpouris&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
 
 <!-- Connect Section -->
 <h2 align="center" style="font-weight: bold; font-size: 28px;">
   Connect With Me
 </h2>
 <p align="center">
-  <a href="https://linkedin.com/in/fotios mpouris" target="_blank" style="text-decoration: none;">
+  <a href="https://linkedin.com/in/fotios-mpouris" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.behance.net/fotios mpouris" target="_blank" style="text-decoration: none;">
+  <a href="https://www.behance.net/fotiosmpouris" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
   </a>
   <a href="mailto:fotiosmpouris@gmail.com" style="text-decoration: none;">
