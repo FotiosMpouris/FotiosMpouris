@@ -1,7 +1,7 @@
 <!-- Top Name Section -->
 <h1 align="center">
   <!-- Animated Name with Color -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=50&weight=900&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&repeat=true&width=600&height=80&lines=FOTIOS+MPOURIS" alt="Fotios Mpouris"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=50&weight=900&duration=4000&pause=500&color=355E3B&center=true&vCenter=true&repeat=true&width=600&height=80&lines=FOTIOS+MPOURIS" alt="Fotios Mpouris"/>
 </h1>
 
 <!-- Animated Subtitle -->
