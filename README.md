@@ -1,58 +1,32 @@
-<!-- TOP NAME SECTION -->
-<h1 align="center">
-  <!-- New Animated Name with Bold Color -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=3000&pause=800&color=FF5733&center=true&vCenter=true&width=800&height=80&lines=FOTIOS+MPOURIS" alt="Fotios Mpouris"/>
-</h1>
-
-<!-- Animated Subtitle -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2F85D0&center=true&vCenter=true&repeat=true&width=435&lines=2D+%26+3D+Artist;Creative+Developer;Animation+Specialist;AI+Integration+Expert" alt="Typing SVG" />
-</div>
-
-<!-- PROFILE STATS SECTION -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=Profile%20Views&color=70A5FD&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/fotiosmpouris?label=Followers&style=flat-square&color=70A5FD" alt="Followers"/>
-</div>
-
-<!-- CURRENTLY LISTENING SECTION -->
-<div align="center">
-  <h3 style="font-weight: bold; font-size: 24px; color: #FF3300;">
-    🎵 Currently Listening To:
-  </h3>
-  <a href="https://on.soundcloud.com/n8NTVe9tuCFniUb98">
-    <img src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=SoundCloud&logoColor=white" alt="SoundCloud"/>
+<!-- TOP SECTION: LOGO & PERSONAL SITE -->
+<p align="center">
+  <!-- Logo for your personal site -->
+  <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/fotioslogo.png" width="80" alt="fotioslogo" />
+</p>
+<p align="center">
+  <!-- Visit personal website link -->
+  <a href="https://fotiosmpouris.com" style="font-weight: bold; font-size: 18px; text-decoration: none;">
+    Visit fotiosmpouris.com
   </a>
+</p>
+
+<!-- NAME IN BLACK BOX WITH FLICKER-LIKE EFFECT -->
+<div align="center" style="background-color:#000000; padding: 20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=1200&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=FOTIOS+MPOURIS; ;FOTIOS+MPOURIS" alt="Fotios Mpouris" />
 </div>
 
-<!-- INTERACTIVE PORTFOLIO SECTION -->
-<div align="center">
-  <h2 style="font-weight: bold; font-size: 28px; color: #4285F4;">
-    Interactive Portfolios
-  </h2>
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://fotiosmpouris.github.io/resume/#">
-          <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/standard-resume.gif" alt="Standard Resume Animation" width="400">
-        </a>
-        <br>
-        <a href="https://fotiosmpouris.github.io/resume/#">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=4285F4&size=20&center=true&vCenter=true&width=400&lines=View+Interactive+Resume" alt="View Interactive Resume"/>
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://fotiosmpouris.github.io/TestCopyResumeFallTheme/">
-          <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/fall-resume.gif" alt="Fall Theme Resume Animation" width="400">
-        </a>
-        <br>
-        <a href="https://fotiosmpouris.github.io/TestCopyResumeFallTheme/">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF6B6B&size=20&center=true&vCenter=true&width=400&lines=View+Fall+Theme" alt="View Fall Theme"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- PROFILE STATS + SOUND CLOUD ON THE SAME LINE -->
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=Profile%20Views&color=70A5FD&style=flat-square" alt="Profile Views"/>
+  &nbsp; <!-- small space -->
+  <!-- SoundCloud Button -->
+  <a href="https://on.soundcloud.com/n8NTVe9tuCFniUb98">
+    <img src="https://img.shields.io/badge/-SoundCloud-FF3300?style=flat-square&logo=SoundCloud&logoColor=white" alt="SoundCloud"/>
+  </a>
+</p>
+
+---
 
 <!-- FEATURED PROJECTS HEADING -->
 <h2 align="center">
@@ -70,8 +44,7 @@
         <h3>ColorFotiFoti</h3>
         <p>A Vibrant, Interactive Color Exploration Website</p>
         <p>
-          <a href="https://colorfotifoti.com" style="font-weight: bold; font-size: 16px; color: #181717; text-decoration: none;">Visit Website</a>
-          <br>
+          <a href="https://colorfotifoti.com" style="font-weight: bold; font-size: 16px; color: #181717; text-decoration: none;">Visit Website</a><br>
           <a href="https://github.com/FotiosMpouris/colorfotifoti-site" style="font-weight: bold; font-size: 16px; color: #181717; text-decoration: none;">View GitHub Repo</a>
         </p>
         <!-- Tech Badges (example) -->
@@ -86,8 +59,7 @@
         <h3>Pythos.app</h3>
         <p>Data Analysis & Visualization Platform</p>
         <p>
-          <a href="https://pythos.app" style="font-weight: bold; font-size: 16px; color: #181717; text-decoration: none;">Visit Website</a>
-          <br>
+          <a href="https://pythos.app" style="font-weight: bold; font-size: 16px; color: #181717; text-decoration: none;">Visit Website</a><br>
           <a href="https://github.com/FotiosMpouris/Pythos/tree/main/assets/images" style="font-weight: bold; font-size: 16px; color: #181717; text-decoration: none;">View GitHub Repo</a>
         </p>
         <!-- Tech Badges (example) -->
@@ -103,7 +75,7 @@
 <!-- OTHER PROJECTS -->
 <div align="center">
   <table>
-    <!-- Second row (3 columns) -->
+    <!-- Row (3 columns) -->
     <tr>
       <!-- Siding Project Assistant -->
       <td width="33%" align="center">
@@ -162,7 +134,7 @@
   </table>
 </div>
 
-<!-- IMPOSSIBLE SHARK (Moved Further Down) -->
+<!-- IMPOSSIBLE SHARK -->
 <div align="center" style="margin: 50px 0;">
   <h2 style="font-weight: bold; font-size: 28px; color: #FF6600;">
     Impossible Shark
@@ -185,6 +157,8 @@
     </a>
   </p>
 </div>
+
+---
 
 <!-- TECHNOLOGIES AND TOOLS SECTION -->
 <h2 align="center" style="font-weight: bold; font-size: 28px;">
@@ -265,6 +239,8 @@
   </tr>
 </table>
 
+---
+
 <!-- CONTRIBUTION GRAPH -->
 <h2 align="center" style="font-weight: bold; font-size: 28px;">
   Contribution Graph
@@ -272,6 +248,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fotiosmpouris&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
+
+---
 
 <!-- CONNECT SECTION -->
 <h2 align="center" style="font-weight: bold; font-size: 28px;">
