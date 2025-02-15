@@ -1,68 +1,45 @@
-<!-- FLICKERING NAME IN BLACK BACKGROUND -->
-<div align="center">
-  <img 
-       src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=150&pause=200&color=FFFFFF&background=000000&center=true&vCenter=true&width=850&height=80&lines=FOTIOS+MPOURIS; ;FOTIOS+MPOURIS; ;FOTIOS+MPOURIS&repeat=true" 
-       alt="Fotios Mpouris" 
-  />
+<!-- TOP SECTION: LOGO & PERSONAL SITE -->
+<p align="center" style="margin: 0;">
+  <!-- Logo for your personal site -->
+  <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/fotioslogo.png" width="80" alt="fotioslogo" />
+</p>
+<p align="center" style="margin: 5px 0 10px 0;">
+  <!-- Visit personal website link -->
+  <a href="https://fotiosmpouris.com" style="font-weight: bold; font-size: 18px; text-decoration: none;">
+    Visit fotiosmpouris.com
+  </a>
+</p>
+
+<!-- NAME IN BLACK BOX, WHITE TEXT -->
+<div align="center" style="background-color:#000000; padding: 10px; margin-bottom: 10px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=FOTIOS+MPOURIS" alt="Fotios Mpouris" />
 </div>
 
-<!-- LOGO, VIEWS, SOUNDCLOUD (LEFT) & PERSONAL SITE (RIGHT) -->
-<table width="100%">
-  <tr>
-    <td align="left" style="vertical-align: middle;">
-      <!-- Logo -->
-      <img 
-           src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/fotioslogo.png" 
-           width="50" 
-           alt="Fotios Logo" 
-           style="vertical-align: middle;"
-      />
-      &nbsp;&nbsp;
-      <!-- Profile Views -->
-      <img 
-           src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=Profile%20Views&color=70A5FD&style=flat-square" 
-           alt="Profile Views" 
-           style="vertical-align: middle;"
-      />
-      &nbsp;&nbsp;
-      <!-- SoundCloud -->
-      <a 
-         href="https://on.soundcloud.com/n8NTVe9tuCFniUb98" 
-         style="text-decoration: none; vertical-align: middle;"
-      >
-        <img 
-             src="https://img.shields.io/badge/-SoundCloud-FF3300?style=flat-square&logo=SoundCloud&logoColor=white" 
-             alt="SoundCloud" 
-        />
-      </a>
-    </td>
-    <!-- Personal Website on the right -->
-    <td align="right" style="vertical-align: middle;">
-      <a 
-         href="https://fotiosmpouris.com" 
-         style="font-weight: bold; font-size: 16px; text-decoration: none;"
-      >
-        fotiosmpouris.com
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- PROFILE VIEWS & SOUNDCLOUD ON THE SAME LINE -->
+<p align="center" style="margin: 0;">
+  <img src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=Profile%20Views&color=70A5FD&style=flat-square" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://on.soundcloud.com/n8NTVe9tuCFniUb98">
+    <img src="https://img.shields.io/badge/-SoundCloud-FF3300?style=flat-square&logo=SoundCloud&logoColor=white" alt="SoundCloud"/>
+  </a>
+</p>
 
 ---
 
 <!-- FEATURED PROJECTS HEADING -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Featured+Projects" alt="Featured Projects"/>
+<h2 align="center" style="margin: 20px 0 15px; font-weight: bold; font-size: 24px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Featured+Projects" alt="Featured Projects"/>
 </h2>
 
-<!-- FEATURED WEBSITES (Highlighting ColorFotiFoti & Pythos) -->
+<!-- FEATURED WEBSITES -->
 <div align="center">
   <table>
+    <!-- First row (2 columns) -->
     <tr>
       <!-- ColorFotiFoti -->
-      <td width="50%" align="center">
+      <td width="50%" align="center" style="padding: 10px;">
         <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/fotifotilogo.png" width="100" height="100" alt="ColorFotiFoti Logo">
-        <h3>ColorFotiFoti</h3>
+        <h3 style="margin: 10px 0 5px;">ColorFotiFoti</h3>
         <p>A Vibrant, Interactive Color Exploration Website</p>
         <p>
           <a href="https://colorfotifoti.com" style="font-weight: bold; font-size: 16px; color: #181717; text-decoration: none;">Visit Website</a><br>
@@ -75,9 +52,9 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
       </td>
       <!-- Pythos -->
-      <td width="50%" align="center">
+      <td width="50%" align="center" style="padding: 10px;">
         <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/pythos-logo.png" width="100" height="100" alt="Pythos Logo">
-        <h3>Pythos.app</h3>
+        <h3 style="margin: 10px 0 5px;">Pythos.app</h3>
         <p>Data Analysis & Visualization Platform</p>
         <p>
           <a href="https://pythos.app" style="font-weight: bold; font-size: 16px; color: #181717; text-decoration: none;">Visit Website</a><br>
@@ -96,11 +73,12 @@
 <!-- OTHER PROJECTS -->
 <div align="center">
   <table>
+    <!-- Row (3 columns) -->
     <tr>
       <!-- Siding Project Assistant -->
-      <td width="33%" align="center">
+      <td width="33%" align="center" style="padding: 10px;">
         <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/siding-assistant-logo.png" width="100" height="100" alt="Siding Assistant">
-        <h3>Siding Project Assistant</h3>
+        <h3 style="margin: 10px 0 5px;">Siding Project Assistant</h3>
         <p>AI-Powered Construction Calculator</p>
         <a href="https://github.com/FotiosMpouris/Hardie-Siding-Agent-Testing-Working_Copy" style="font-weight: bold; font-size: 16px; color: #181717; text-decoration: none;">
           View Project
@@ -115,9 +93,9 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
       </td>
       <!-- Oriana -->
-      <td width="33%" align="center">
+      <td width="33%" align="center" style="padding: 10px;">
         <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/oriana-logo.png" width="100" height="100" alt="Oriana">
-        <h3>Oriana</h3>
+        <h3 style="margin: 10px 0 5px;">Oriana</h3>
         <p>Innovative Game Development</p>
         <a href="https://github.com/FotiosMpouris/Oriana" style="font-weight: bold; font-size: 16px; color: #181717; text-decoration: none;">
           View Project
@@ -133,9 +111,9 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
       </td>
       <!-- AI Resume Tailor -->
-      <td width="33%" align="center">
+      <td width="33%" align="center" style="padding: 10px;">
         <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/resume-tailor-logo.png" width="100" height="100" alt="AI Resume Tailor">
-        <h3>AI Resume Tailor</h3>
+        <h3 style="margin: 10px 0 5px;">AI Resume Tailor</h3>
         <p>Smart Resume Optimization</p>
         <a href="https://github.com/FotiosMpouris/ReggieResume2" style="font-weight: bold; font-size: 16px; color: #181717; text-decoration: none;">
           View Project
@@ -155,13 +133,14 @@
 </div>
 
 <!-- IMPOSSIBLE SHARK -->
-<div align="center" style="margin: 50px 0;">
-  <h2 style="font-weight: bold; font-size: 28px; color: #FF6600;">
+<div align="center" style="margin-top: 30px;">
+  <h2 style="font-weight: bold; font-size: 24px; color: #FF6600; margin: 10px 0;">
     Impossible Shark
   </h2>
-  <h3 style="font-weight: bold; font-size: 20px; color: #FF6600;">
+  <h3 style="font-weight: bold; font-size: 18px; color: #FF6600; margin-bottom: 15px;">
     A Fun & Challenging Web Game
   </h3>
+  <!-- Repo Link -->
   <p>
     <a href="https://github.com/FotiosMpouris/ImpossibleShark2" style="color: #FF6600; font-weight: bold; text-decoration: none;">
       Impossible Shark Repo Link
@@ -170,7 +149,7 @@
   <a href="https://fotiosmpouris.github.io/ImpossibleShark2/">
     <img width="500" src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/impossibleSharkGIF.gif" alt="Impossible Shark Gameplay">
   </a>
-  <p>
+  <p style="margin-top: 10px;">
     <a href="https://fotiosmpouris.github.io/ImpossibleShark2/">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF3333&size=20&center=true&vCenter=true&width=150&lines=Play+Now" alt="Play Now"/>
     </a>
@@ -180,7 +159,7 @@
 ---
 
 <!-- TECHNOLOGIES AND TOOLS SECTION -->
-<h2 align="center" style="font-weight: bold; font-size: 28px;">
+<h2 align="center" style="font-weight: bold; font-size: 24px; margin: 30px 0 15px;">
   Technologies and Tools
 </h2>
 <table align="center">
@@ -261,7 +240,7 @@
 ---
 
 <!-- CONTRIBUTION GRAPH -->
-<h2 align="center" style="font-weight: bold; font-size: 28px;">
+<h2 align="center" style="font-weight: bold; font-size: 24px; margin: 30px 0 15px;">
   Contribution Graph
 </h2>
 <div align="center">
@@ -271,7 +250,7 @@
 ---
 
 <!-- CONNECT SECTION -->
-<h2 align="center" style="font-weight: bold; font-size: 28px;">
+<h2 align="center" style="font-weight: bold; font-size: 24px; margin: 30px 0 10px;">
   Connect With Me
 </h2>
 <p align="center">
