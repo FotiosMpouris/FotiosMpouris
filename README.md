@@ -1,30 +1,52 @@
-<!-- TOP SECTION: LOGO & PERSONAL SITE -->
-<p align="center">
-  <!-- Logo for your personal site -->
-  <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/fotioslogo.png" width="80" alt="fotioslogo" />
-</p>
-<p align="center">
-  <!-- Visit personal website link -->
-  <a href="https://fotiosmpouris.com" style="font-weight: bold; font-size: 18px; text-decoration: none;">
-    Visit fotiosmpouris.com
-  </a>
-</p>
-
-<!-- NAME IN BLACK BOX WITH FLICKER-LIKE EFFECT -->
-<div align="center" style="background-color:#000000; padding: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=1200&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=FOTIOS+MPOURIS; ;FOTIOS+MPOURIS" alt="Fotios Mpouris" />
+<!-- FLICKERING NAME IN BLACK BACKGROUND -->
+<div align="center">
+  <img 
+       src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=150&pause=200&color=FFFFFF&background=000000&center=true&vCenter=true&width=850&height=80&lines=FOTIOS+MPOURIS; ;FOTIOS+MPOURIS; ;FOTIOS+MPOURIS&repeat=true" 
+       alt="Fotios Mpouris" 
+  />
 </div>
 
-<!-- PROFILE STATS + SOUND CLOUD ON THE SAME LINE -->
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=Profile%20Views&color=70A5FD&style=flat-square" alt="Profile Views"/>
-  &nbsp; <!-- small space -->
-  <!-- SoundCloud Button -->
-  <a href="https://on.soundcloud.com/n8NTVe9tuCFniUb98">
-    <img src="https://img.shields.io/badge/-SoundCloud-FF3300?style=flat-square&logo=SoundCloud&logoColor=white" alt="SoundCloud"/>
-  </a>
-</p>
+<!-- LOGO, VIEWS, SOUNDCLOUD (LEFT) & PERSONAL SITE (RIGHT) -->
+<table width="100%">
+  <tr>
+    <td align="left" style="vertical-align: middle;">
+      <!-- Logo -->
+      <img 
+           src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/fotioslogo.png" 
+           width="50" 
+           alt="Fotios Logo" 
+           style="vertical-align: middle;"
+      />
+      &nbsp;&nbsp;
+      <!-- Profile Views -->
+      <img 
+           src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=Profile%20Views&color=70A5FD&style=flat-square" 
+           alt="Profile Views" 
+           style="vertical-align: middle;"
+      />
+      &nbsp;&nbsp;
+      <!-- SoundCloud -->
+      <a 
+         href="https://on.soundcloud.com/n8NTVe9tuCFniUb98" 
+         style="text-decoration: none; vertical-align: middle;"
+      >
+        <img 
+             src="https://img.shields.io/badge/-SoundCloud-FF3300?style=flat-square&logo=SoundCloud&logoColor=white" 
+             alt="SoundCloud" 
+        />
+      </a>
+    </td>
+    <!-- Personal Website on the right -->
+    <td align="right" style="vertical-align: middle;">
+      <a 
+         href="https://fotiosmpouris.com" 
+         style="font-weight: bold; font-size: 16px; text-decoration: none;"
+      >
+        fotiosmpouris.com
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -36,7 +58,6 @@
 <!-- FEATURED WEBSITES (Highlighting ColorFotiFoti & Pythos) -->
 <div align="center">
   <table>
-    <!-- First row (2 columns) -->
     <tr>
       <!-- ColorFotiFoti -->
       <td width="50%" align="center">
@@ -75,7 +96,6 @@
 <!-- OTHER PROJECTS -->
 <div align="center">
   <table>
-    <!-- Row (3 columns) -->
     <tr>
       <!-- Siding Project Assistant -->
       <td width="33%" align="center">
@@ -142,7 +162,6 @@
   <h3 style="font-weight: bold; font-size: 20px; color: #FF6600;">
     A Fun & Challenging Web Game
   </h3>
-  <!-- Repo Link -->
   <p>
     <a href="https://github.com/FotiosMpouris/ImpossibleShark2" style="color: #FF6600; font-weight: bold; text-decoration: none;">
       Impossible Shark Repo Link
