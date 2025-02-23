@@ -4,9 +4,9 @@
   <img src="https://raw.githubusercontent.com/FotiosMpouris/FotiosMpouris/main/assets/fotioslogo.png" width="80" alt="fotioslogo" />
 </p>
 <p align="center" style="margin: 5px 0 10px 0;">
-  <!-- Visit personal website link -->
+  <!-- Personal CV website link -->
   <a href="https://fotiosmpouris.com" style="font-weight: bold; font-size: 18px; text-decoration: none;">
-    Visit fotiosmpouris.com
+    Visit my personal website (serving as my CV) at fotiosmpouris.com
   </a>
 </p>
 
