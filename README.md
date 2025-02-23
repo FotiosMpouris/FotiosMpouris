@@ -6,7 +6,7 @@
 <p align="center" style="margin: 5px 0 10px 0;">
   <!-- Personal CV website link -->
   <a href="https://fotiosmpouris.com" style="font-weight: bold; font-size: 18px; text-decoration: none;">
-    Visit my personal website (serving as my CV) at fotiosmpouris.com
+    fotiosmpouris.com
   </a>
 </p>
 
