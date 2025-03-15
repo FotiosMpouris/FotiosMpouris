@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center" style="margin: 15px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=2500&pause=1000&color=FF6600&background=00000010&center=true&vCenter=true&width=600&height=70&lines=Creative+Technologist+at+fotiosmpouris.com;Building+Innovative+Web+Experiences;Developer+•+Designer+•+Game+Creator" alt="Animated Tagline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2500&pause=1000&color=FF6600&background=00000010¢er=true&vCenter=true&width=440&height=60&lines=Creative+at+fotiosmpouris.com;Building+Web+Innovations;Developer+•+Designer" alt="Animated Tagline" />
 </p>
 
 <p align="center" style="margin: 10px 0;">
@@ -124,7 +124,7 @@
 <p align="center">
   <a href="https://github.com/FotiosMpouris/ImpossibleShark2" style="color: #FF6600; text-decoration: none; margin-right: 15px;">GitHub Repo</a>
   <a href="https://fotiosmpouris.github.io/ImpossibleShark2/" style="color: #FF6600; text-decoration: none;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF6600&size=18&center=true&vCenter=true&width=150&lines=Play+Now" alt="Play Now" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF6600&size=18¢er=true&vCenter=true&width=150&lines=Play+Now" alt="Play Now" />
   </a>
 </p>
 
