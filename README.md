@@ -26,7 +26,7 @@ STATUS: PRODUCTION
   • AI-powered content generation via OpenAI GPT-4o with custom brand voice enforcement.
   • TECH: Python, AWS, OpenAI API, Meta Graph API, GitHub API
 
-<strong><a href="https://fotiosmpouris.com/ai-apps.html">[ Hard-E: Multi-Agent Sales Assistant ]</a></strong>
+<strong><a href="https://harde.app/">[ Hard-E: Multi-Agent Sales Assistant ]</a></strong>
 STATUS: PRODUCTION
   • Multi-agent AI system cloning sales director expertise for a contracting company.
   • Hybrid orchestration (OpenAI Agents SDK + manual streaming) on a dual-environment AWS deployment.
