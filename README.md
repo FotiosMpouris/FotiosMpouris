@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">FOTIOS MPOURIS</h1>
 
 <p align="center">
@@ -60,7 +59,7 @@ STATUS: IN DEVELOPMENT
 
 ### **[ TECHNICAL SKILLSET MATRIX ]**
 
-```
+<pre>
 LANGUAGES   &  FRAMEWORKS
 --------------------------
 Python         C#
@@ -79,11 +78,10 @@ DESIGN       &  MULTIMEDIA
 Photoshop      Premiere Pro
 Illustrator    After Effects
 Figma          Blender
-```
+</pre>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fotiosmpouris&label=SYSTEM%20ACCESS%20COUNT&color=00ffff&style=flat-square" alt="Profile Views" />
 </p>
-```
