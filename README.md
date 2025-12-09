@@ -40,15 +40,6 @@ STATUS: IN DEVELOPMENT
   • TECH: Next.js 15, TypeScript, AWS (Lambda, API Gateway, DynamoDB, S3, IAM), Python, Streamlit (Lite), Nostr (nostr-sdk)
 </pre>
 
-### **[ WEB PLATFORMS & CREATIVE SHOWCASES ]**
-
-<pre>
-  • <strong><a href="https://colorfotifoti.com">[ ColorFotiFoti.com ]</a></strong>        - Dynamic gallery of downloadable art with donation integrations.
-  • <strong><a href="https://theabstractamerican.com">[ TheAbstractAmerican.com ]</a></strong> - Artist portfolio featuring a dynamic scrolling gallery.
-  • <strong><a href="https://theasteriproject.com">[ TheAsteriProject.com ]</a></strong>   - Immersive sci-fi experience with interactive particle effects.
-  • <strong><a href="https://themagamatrix.com">[ TheMAGAMatrix.com ]</a></strong>       - Political accountability commentary platform with Matrix-style digital rain.
-</pre>
-
 ### **[ AI-POWERED UTILITIES & TOOLS ]**
 
 <pre>
@@ -56,6 +47,16 @@ STATUS: IN DEVELOPMENT
   • <strong><a href="https://github.com/FotiosMpouris/Oriana-Audible">[ Oriana - Audible ]</a></strong> - Summarize online articles and listen to either the full text or the summary.
   • <strong><a href="https://ai-resume-tailor2.streamlit.app/">[ AI Resume Tailor ]</a></strong>              - Streamlit-based application for smart resume optimization.
   • <strong><a href="https://oriana.streamlit.app/">[ Oriana: AI Investigative Assistant ]</a></strong> - Tool for source management, transcripts, and deep research.
+  • <strong><a href="https://github.com/FotiosMpouris/LoomTranscriptScraper">[ Loom Transcript Scraper ]</a></strong> - Extract transcripts and titles from Loom videos and save them to Google Docs.
+</pre>
+
+### **[ WEB PLATFORMS & CREATIVE SHOWCASES ]**
+
+<pre>
+  • <strong><a href="https://colorfotifoti.com">[ ColorFotiFoti.com ]</a></strong>        - Dynamic gallery of downloadable art with donation integrations.
+  • <strong><a href="https://theabstractamerican.com">[ TheAbstractAmerican.com ]</a></strong> - Artist portfolio featuring a dynamic scrolling gallery.
+  • <strong><a href="https://theasteriproject.com">[ TheAsteriProject.com ]</a></strong>   - Immersive sci-fi experience with interactive particle effects.
+  • <strong><a href="https://themagamatrix.com">[ TheMAGAMatrix.com ]</a></strong>       - Political accountability commentary platform with Matrix-style digital rain.
 </pre>
 
 ### **[ TECHNICAL SKILLSET MATRIX ]**
