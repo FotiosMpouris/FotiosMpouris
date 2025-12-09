@@ -46,7 +46,7 @@ STATUS: IN DEVELOPMENT
   • <strong><a href="https://colorfotifoti.com">[ ColorFotiFoti.com ]</a></strong>        - Dynamic gallery of downloadable art with donation integrations.
   • <strong><a href="https://theabstractamerican.com">[ TheAbstractAmerican.com ]</a></strong> - Artist portfolio featuring a dynamic scrolling gallery.
   • <strong><a href="https://theasteriproject.com">[ TheAsteriProject.com ]</a></strong>   - Immersive sci-fi experience with interactive particle effects.
-  • <strong><a href="https://themagamatrix.com">[ TheMAGAMatrix.com ]</a></strong>       - Political commentary platform with Matrix-style digital rain.
+  • <strong><a href="https://themagamatrix.com">[ TheMAGAMatrix.com ]</a></strong>       - Political accountability commentary platform with Matrix-style digital rain.
 </pre>
 
 ### **[ AI-POWERED UTILITIES & TOOLS ]**
