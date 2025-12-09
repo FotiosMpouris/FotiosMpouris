@@ -52,7 +52,8 @@ STATUS: IN DEVELOPMENT
 ### **[ AI-POWERED UTILITIES & TOOLS ]**
 
 <pre>
-  • <strong><a href="https://github.com/FotiosMpouris/Oriana-Audible">[ Oriana: AI Summarizer & Reader ]</a></strong> - Converts articles to summarized audio with ElevenLabs TTS.
+  • <strong><a href="https://github.com/FotiosMpouris/Transcribe-MP3">[ MP3 Audio Transcriber ]</a></strong> - Upload MP3 files and transcribe them using OpenAI's Whisper API.
+  • <strong><a href="https://github.com/FotiosMpouris/Oriana-Audible">[ Oriana - Audible ]</a></strong> - Summarize online articles and listen to either the full text or the summary.
   • <strong><a href="https://ai-resume-tailor2.streamlit.app/">[ AI Resume Tailor ]</a></strong>              - Streamlit-based application for smart resume optimization.
   • <strong><a href="https://oriana.streamlit.app/">[ Oriana: AI Investigative Assistant ]</a></strong> - Tool for source management, transcripts, and deep research.
 </pre>
