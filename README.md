@@ -26,6 +26,7 @@ STATUS: PRODUCTION
   • TECH: Python, AWS (Lambda, S3, DynamoDB, EventBridge, Secrets Manager), OpenAI API, Meta Graph API, GitHub API
 
 <strong><a href="https://harde.app/">[ Hard-E: Multi-Agent Sales Assistant ]</a></strong>
+<strong><a href="https://github.com/FotiosMpouris/harde-sales-director-agent/tree/main">[ Public Repo ]</a></strong>
 STATUS: PRODUCTION
   • Multi-agent AI system cloning sales director expertise for a contracting company.
   • Hybrid orchestration (OpenAI Agents SDK + custom streaming pipeline) on AWS.
