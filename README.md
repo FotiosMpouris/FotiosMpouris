@@ -25,7 +25,14 @@ STATUS: PRODUCTION
   • AI-powered content generation via OpenAI GPT-4o with a branded "Artemis" persona and vision analysis.
   • TECH: Python, AWS (Lambda, S3, DynamoDB, EventBridge, Secrets Manager), OpenAI API, Meta Graph API, GitHub API
 
-<strong><a href="https://harde.app/">[ Hard-E: Multi-Agent Sales Assistant ]</a></strong>
+  <strong><a href="https://github.com/FotiosMpouris/poor-people-app-overview">[ Poor People App - Technical Overview ]</a></strong>
+STATUS: DOCUMENTATION
+  • Comprehensive architecture documentation for community coordination infrastructure using Nostr protocol.
+  • Technical specifications for trust layer (Sentinels), web-of-trust algorithms, and hybrid AWS/Nostr architecture.
+  • Detailed user flows, NIP implementations (NIP-99, NIP-17, NIP-58), and geographic scaling strategy.
+  • TECH: Next.js 15, TypeScript, NDK (Nostr Development Kit), AWS (Lambda, DynamoDB, S3), strfry relay, Grapevine trust network
+  
+  <strong><a href="https://harde.app/">[ Hard-E: Multi-Agent Sales Assistant ]</a></strong>
 <strong><a href="https://github.com/FotiosMpouris/harde-sales-director-agent/tree/main">[ Public Repo ]</a></strong>
 STATUS: PRODUCTION
   • Multi-agent AI system cloning sales director expertise for a contracting company.
