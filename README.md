@@ -51,6 +51,7 @@ STATUS: IN DEVELOPMENT
 ### **[ AI-POWERED UTILITIES & TOOLS ]**
 
 <pre>
+  • <strong><a href="https://github.com/FotiosMpouris/RoadScout-Podcast-Summarizer">[ RoadScout Podcast Summarizer ]</a></strong> - Turns long podcasts into single stitched MP3 .
   • <strong><a href="https://github.com/FotiosMpouris/Transcribe-MP3">[ MP3 Audio Transcriber ]</a></strong> - Upload MP3 files and transcribe them using OpenAI's Whisper API.
   • <strong><a href="https://github.com/FotiosMpouris/Oriana-Audible">[ Oriana - Audible ]</a></strong> - Summarize online articles and listen to either the full text or the summary.
   • <strong><a href="https://ai-resume-tailor2.streamlit.app/">[ AI Resume Tailor ]</a></strong>              - Streamlit-based application for smart resume optimization.
@@ -61,10 +62,12 @@ STATUS: IN DEVELOPMENT
 ### **[ WEB PLATFORMS & CREATIVE SHOWCASES ]**
 
 <pre>
+  • <strong><a href="https://fotiosmpouris.com">[ FotiosMpouris.com ]</a></strong>        - Personal website for most everything in one place.
+  • <strong><a href="https://americanreformersleague.com">[ AmericanReformersLeague.com ]</a></strong>        - Probono conceptual site build.
   • <strong><a href="https://colorfotifoti.com">[ ColorFotiFoti.com ]</a></strong>        - Dynamic gallery of downloadable art with donation integrations.
   • <strong><a href="https://theabstractamerican.com">[ TheAbstractAmerican.com ]</a></strong> - Artist portfolio featuring a dynamic scrolling gallery.
-  • <strong><a href="https://theasteriproject.com">[ TheAsteriProject.com ]</a></strong>   - Immersive sci-fi experience with interactive particle effects.
-  • <strong><a href="https://themagamatrix.com">[ TheMAGAMatrix.com ]</a></strong>       - Political accountability commentary platform with Matrix-style digital rain.
+  • <strong><a href="https://theasteriproject.com">[ TheAsteriProject.com ]</a></strong>   - Simulation/Galactic Respone Sci-fi story development for future pitch deck.
+  • <strong><a href="https://themagamatrix.com">[ TheMAGAMatrix.com ]</a></strong>       - Political accountability repository platform with Matrix-style digital rain.
 </pre>
 
 ### **[ TECHNICAL SKILLSET MATRIX ]**
