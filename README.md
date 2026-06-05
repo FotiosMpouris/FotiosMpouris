@@ -69,10 +69,8 @@ STATUS: ACTIVE BUILD
   • <strong><a href="https://poorpeople.app">[ PoorPeople.app ]</a></strong>                  - Live mutual aid and human services platform.
   • <strong><a href="https://harde.app">[ HardE.app ]</a></strong>                       - Live AI sales agent for the contracting industry.
   • <strong><a href="https://colorfotifoti.com">[ ColorFotiFoti.com ]</a></strong>            - Gallery of AI-colorized downloadable art, auto-updated by agent.
-  • <strong><a href="https://arl-demo.fotiosmpouris.com">[ AmericanReformersLeague (Demo) ]</a></strong> - Pro bono civic org site with AWS form backend.
   • <strong><a href="https://theabstractamerican.com">[ TheAbstractAmerican.com ]</a></strong>     - Artist portfolio with dynamic scrolling gallery.
-  • <strong><a href="https://theasteriproject.com">[ TheAsteriProject.com ]</a></strong>         - Sci-fi simulation / story development for a future pitch deck.
-  • <strong><a href="https://themagamatrix.com">[ TheMAGAMatrix.com ]</a></strong>             - Political accountability platform with Matrix-style digital rain.
+  • <strong><a href="https://matrix.fotiosmpouris.com">[ matrix.fotiosmpouris.com ]</a></strong>             - Studio for Matrix-style digital rain.
 </pre>
 
 ### **[ TECHNICAL SKILLSET MATRIX ]**
