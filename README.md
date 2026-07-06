@@ -25,8 +25,8 @@ STATUS: PRODUCTION
 <strong><a href="https://poorpeople.app">[ POOR PEOPLE APP / OPENCARE ]</a></strong>  <a href="https://opencare.poorpeople.app">→ opencare.poorpeople.app</a>
 STATUS: LIVE + IN DEVELOPMENT
   Community care coordination for families, veterans, and first responders.
-  Live Mobilization Agent: GPT-4o content engine with self-assessment scoring,
-  DynamoDB learning memory, and broadcast to Telegram and Nostr relays.
+  Live Mobilization Agent: GPT-4o content engine, self-assessment scoring,
+  DynamoDB learning memory, broadcast to Telegram and Nostr relays.
   STACK: Next.js · TypeScript · Supabase · Clerk · Docker · AWS · Nostr · Bitcoin treasury (in build)
 
 <strong><a href="https://aaexterior.com">[ ALL ANGLES EXTERIOR ]</a></strong>
@@ -95,34 +95,22 @@ The question is whether the scaffolding is ready when they do.
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=fotiosmpouris&show_icons=true&hide_border=true&title_color=5B9FD4&icon_color=5B9FD4&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fotiosmpouris&layout=compact&hide_border=true&title_color=5B9FD4&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<table border="0"><tr>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fotiosmpouris&show_icons=true&hide_border=true&title_color=5B9FD4&icon_color=5B9FD4&text_color=C9D1D9&bg_color=0D1117">
+  <img src="https://github-readme-stats.vercel.app/api?username=fotiosmpouris&show_icons=true&hide_border=true&title_color=5B9FD4&icon_color=5B9FD4&text_color=1A1D23&bg_color=ffffff" alt="GitHub Stats">
+</picture>
+</td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fotiosmpouris&layout=compact&hide_border=true&title_color=5B9FD4&text_color=C9D1D9&bg_color=0D1117">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fotiosmpouris&layout=compact&hide_border=true&title_color=5B9FD4&text_color=1A1D23&bg_color=ffffff" alt="Top Languages">
+</picture>
+</td>
+</tr></table>
 
 </div>
-
----
-
-<details>
-<summary>Earlier Builds & Utilities</summary>
-<br/>
-<pre>
-  <a href="https://github.com/FotiosMpouris/RoadScout-Podcast-Summarizer">[ RoadScout Podcast Summarizer ]</a>    — Long podcasts → summarized, stitched MP3s.
-  <a href="https://github.com/FotiosMpouris/Transcribe-MP3">[ MP3 Audio Transcriber ]</a>             — Upload + transcribe via OpenAI Whisper API.
-  <a href="https://github.com/FotiosMpouris/Oriana-Audible">[ Oriana - Audible ]</a>                 — Summarize articles and listen to full text or summary.
-  <a href="https://github.com/FotiosMpouris/LoomTranscriptScraper">[ Loom Transcript Scraper ]</a>          — Extract Loom video transcripts to Google Docs.
-  <a href="https://ai-resume-tailor2.streamlit.app/">[ AI Resume Tailor ]</a>                 — Streamlit app for job-specific resume optimization.
-  <a href="https://matrix.fotiosmpouris.com">[ Matrix Rain Studio ]</a>               — Browser-based Matrix-style digital rain generator.
-</pre>
-
-</details>
 
 ---
 
