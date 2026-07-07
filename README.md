@@ -1,7 +1,7 @@
 <h1 align="center">FOTIOS MPOURIS</h1>
 
 <p align="center">
-  <a href="https://fotiosmpouris.com/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=2200&color=5B9FD4&center=true&vCenter=true&width=620&lines=Building-Skynet+One+Terminator+at+a+time.;+All+solving+something+real.;The+harness+is+being+built.;People+are+the+solution." alt="Typing SVG" /></a>
+  <a href="https://fotiosmpouris.com/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=2200&color=5B9FD4&center=true&vCenter=true&width=620&lines=Building-Skynet+One+Terminator+at+a+time.; alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
